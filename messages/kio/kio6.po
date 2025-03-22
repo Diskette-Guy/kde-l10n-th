@@ -9,27 +9,28 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkio\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-03-18 11:47+0100\n"
-"PO-Revision-Date: 2025-02-11 19:54+0700\n"
+"POT-Creation-Date: 2025-03-20 08:24+0100\n"
+"PO-Revision-Date: 2025-03-20 15:34+0700\n"
 "Last-Translator: Pongsakorn S. <kde@xerusion.me>\n"
-"Language-Team: th\n"
+"Language-Team: Thai\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 24.12.3\n"
 
 #. +> trunk6 trunk5
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ถนอมทรัพย์ นพบูรณ์, สหชาติ อนุกูลกิจ"
+msgstr "ถนอมทรัพย์ นพบูรณ์, สหชาติ อนุกูลกิจ, Pongsakorn S."
 
 #. +> trunk6 trunk5
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "donga.nb@gmail.com, drrider@gmail.com"
+msgstr "donga.nb@gmail.com, drrider@gmail.com, kde@xerusion.me"
 
 #. +> trunk6 trunk5
 #: core/chmodjob.cpp:201
@@ -2602,33 +2603,33 @@ msgid "The specified folder does not exist or was not readable."
 msgstr "โฟลเดอร์ที่ระบุยังไม่มีอยู่ หรือไม่สามารถอ่านได้"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:1982
+#: filewidgets/kdiroperator.cpp:1983
 #, kde-format
 msgid "Menu"
 msgstr "เมนู"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:1987
+#: filewidgets/kdiroperator.cpp:1988
 #, kde-format
 msgid "Parent Folder"
 msgstr "โฟลเดอร์แม่"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:1994
+#: filewidgets/kdiroperator.cpp:1995
 #, kde-format
 msgctxt "@info"
 msgid "Go back"
 msgstr "กลับไป"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:1998
+#: filewidgets/kdiroperator.cpp:1999
 #, kde-format
 msgctxt "@info"
 msgid "Go forward"
 msgstr "ไปข้างหน้า"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2002
+#: filewidgets/kdiroperator.cpp:2003
 #, kde-format
 msgid "Home Folder"
 msgstr "โฟลเดอร์ส่วนตัว"
@@ -2640,20 +2641,20 @@ msgid "New Folder..."
 msgstr "โฟลเดอร์ใหม่..."
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2006
+#: filewidgets/kdiroperator.cpp:2007
 #, kde-format
 msgid "Reload"
 msgstr "โหลดใหม่"
 
 #. +> trunk6
-#: filewidgets/kdiroperator.cpp:2009
+#: filewidgets/kdiroperator.cpp:2010
 #, kde-format
 msgctxt "@action"
 msgid "New Folder…"
 msgstr "โฟลเดอร์ใหม่..."
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2019 widgets/jobuidelegate.cpp:270
+#: filewidgets/kdiroperator.cpp:2020 widgets/jobuidelegate.cpp:270
 #: widgets/jobuidelegate.cpp:271 widgets/jobuidelegate.cpp:280
 #: widgets/jobuidelegate.cpp:281 widgets/widgetsaskuseractionhandler.cpp:290
 #, kde-format
@@ -2661,204 +2662,204 @@ msgid "Move to Trash"
 msgstr "ทิ้งลงถังขยะ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2025
+#: filewidgets/kdiroperator.cpp:2026
 #, kde-format
 msgid "Delete"
 msgstr "ลบ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2032
+#: filewidgets/kdiroperator.cpp:2033
 #, kde-format
 msgid "Sorting"
 msgstr "เรียงลำดับ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2037
+#: filewidgets/kdiroperator.cpp:2038
 #, kde-format
 msgid "Sort by Name"
 msgstr "เรียงตามชื่อ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2043
+#: filewidgets/kdiroperator.cpp:2044
 #, kde-format
 msgid "Sort by Size"
 msgstr "เรียงตามขนาด"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2049
+#: filewidgets/kdiroperator.cpp:2050
 #, kde-format
 msgid "Sort by Date"
 msgstr "เรียงตามวันที่"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2055
+#: filewidgets/kdiroperator.cpp:2056
 #, kde-format
 msgid "Sort by Type"
 msgstr "เรียงตามประเภทรายการ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2064
+#: filewidgets/kdiroperator.cpp:2065
 #, kde-format
 msgid "Ascending"
 msgstr "จากน้อยไปมาก"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2071
+#: filewidgets/kdiroperator.cpp:2072
 #, kde-format
 msgid "Descending"
 msgstr "จากน้อยไปมาก"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2078
+#: filewidgets/kdiroperator.cpp:2079
 #, kde-format
 msgid "Folders First"
 msgstr "จัดเรียงโฟลเดอร์ก่อน"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2084
+#: filewidgets/kdiroperator.cpp:2085
 #, kde-format
 msgid "Hidden Files Last"
 msgstr "ไฟล์ซ่อนอยู่สุดท้าย"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2091
+#: filewidgets/kdiroperator.cpp:2092
 #, kde-format
 msgid "Icons View"
 msgstr "มุมมองไอคอน"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2098
+#: filewidgets/kdiroperator.cpp:2099
 #, kde-format
 msgid "Compact View"
 msgstr "มุมมองย่อ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2105
+#: filewidgets/kdiroperator.cpp:2106
 #, kde-format
 msgid "Details View"
 msgstr "มุมมองละเอียด"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2124
+#: filewidgets/kdiroperator.cpp:2125
 #, kde-format
 msgid "Icon Position"
 msgstr "ตำแหน่งของไอคอน"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2127
+#: filewidgets/kdiroperator.cpp:2128
 #, kde-format
 msgid "Next to File Name"
 msgstr "ถัดจากชื่อแฟ้ม"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2133
+#: filewidgets/kdiroperator.cpp:2134
 #, kde-format
 msgid "Above File Name"
 msgstr "อยู่เหนือชื่อแฟ้ม"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2147
+#: filewidgets/kdiroperator.cpp:2148
 #, kde-format
 msgid "Short View"
 msgstr "มุมมองย่อ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2154
+#: filewidgets/kdiroperator.cpp:2155
 #, kde-format
 msgid "Detailed View"
 msgstr "มุมมองรายละเอียด"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2161
+#: filewidgets/kdiroperator.cpp:2162
 #, kde-format
 msgid "Tree View"
 msgstr "มุมมองต้นไม้"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2168
+#: filewidgets/kdiroperator.cpp:2169
 #, kde-format
 msgid "Detailed Tree View"
 msgstr "มุมมองต้นไม้และรายละเอียด"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2181
+#: filewidgets/kdiroperator.cpp:2182
 #, kde-format
 msgid "Allow Expansion in Details View"
 msgstr "อนุญาตให้ขยายในมุมมองรายละเอียด"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2187
+#: filewidgets/kdiroperator.cpp:2188
 #, kde-format
 msgid "Show Hidden Files"
 msgstr "แสดงแฟ้มที่ถูกซ่อน"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2194
+#: filewidgets/kdiroperator.cpp:2195
 #, kde-format
 msgid "Show Preview Panel"
 msgstr "แสดงตัวอย่าง"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2201
+#: filewidgets/kdiroperator.cpp:2202
 #, kde-format
 msgid "Show Preview"
 msgstr "แสดงตัวอย่าง"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2208
+#: filewidgets/kdiroperator.cpp:2209
 #, kde-format
 msgid "Open Containing Folder"
 msgstr "เปิดโฟลเดอร์ที่บรรจุ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2215 filewidgets/kfileplacesview.cpp:1221
+#: filewidgets/kdiroperator.cpp:2216 filewidgets/kfileplacesview.cpp:1221
 #, kde-format
 msgid "Properties"
 msgstr "คุณสมบัติ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2224
+#: filewidgets/kdiroperator.cpp:2225
 #, kde-format
 msgid "&View Mode"
 msgstr "&View Mode"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2327 filewidgets/kdiroperator.cpp:2339
+#: filewidgets/kdiroperator.cpp:2328 filewidgets/kdiroperator.cpp:2340
 #, kde-format
 msgctxt "Sort descending"
 msgid "Z-A"
 msgstr "Z-A"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2328 filewidgets/kdiroperator.cpp:2340
+#: filewidgets/kdiroperator.cpp:2329 filewidgets/kdiroperator.cpp:2341
 #, kde-format
 msgctxt "Sort ascending"
 msgid "A-Z"
 msgstr "A-Z"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2331
+#: filewidgets/kdiroperator.cpp:2332
 #, kde-format
 msgctxt "Sort descending"
 msgid "Newest First"
 msgstr "เรียงใหม่ก่อน"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2332
+#: filewidgets/kdiroperator.cpp:2333
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Oldest First"
 msgstr "เรียงเก่าก่อน"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2335
+#: filewidgets/kdiroperator.cpp:2336
 #, kde-format
 msgctxt "Sort descending"
 msgid "Largest First"
 msgstr "เรียงใหญ่ก่อน"
 
 #. +> trunk6 trunk5
-#: filewidgets/kdiroperator.cpp:2336
+#: filewidgets/kdiroperator.cpp:2337
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Smallest First"
@@ -2965,7 +2966,7 @@ msgstr "ทุกแฟ้มที่รองรับ"
 
 #. +> trunk6 trunk5
 #: filewidgets/kfilefiltercombo.cpp:174 filewidgets/kfilefiltercombo.cpp:176
-#: filewidgets/kfilewidget.cpp:1967
+#: filewidgets/kfilewidget.cpp:1968
 #, kde-format
 msgid "All Files"
 msgstr "ทุกไฟล์"
@@ -3694,19 +3695,19 @@ msgid "Overwrite File?"
 msgstr "เขียนทับแฟ้มหรือไม่ ?"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:1871
+#: filewidgets/kfilewidget.cpp:1872
 #, kde-format
 msgid "You can only select local files."
 msgstr "คุณสามารถเลือกได้เฉพาะแฟ้มภายในระบบเท่านั้น"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:1871
+#: filewidgets/kfilewidget.cpp:1872
 #, kde-format
 msgid "Remote Files Not Accepted"
 msgstr "ไม่ยอมรับแฟ้มระยะไกล"
 
 #. +> trunk6
-#: filewidgets/kfilewidget.cpp:1965
+#: filewidgets/kfilewidget.cpp:1966
 #, kde-format
 msgid "All Folders"
 msgstr "ทุกโฟลเดอร์"
@@ -3724,44 +3725,44 @@ msgid "*|All Files"
 msgstr "*|ทุกแฟ้ม"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2117 widgets/executablefileopendialog.cpp:44
+#: filewidgets/kfilewidget.cpp:2118 widgets/executablefileopendialog.cpp:44
 #: widgets/kfileitemactions.cpp:742
 #, kde-format
 msgid "&Open"
 msgstr "เ&ปิด"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2217
+#: filewidgets/kfilewidget.cpp:2218
 #, kde-format
 msgid "Icon size: %1 pixels"
 msgstr "ขนาดไอคอน: %1 พิกเซล"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2364
+#: filewidgets/kfilewidget.cpp:2365
 #, kde-format
 msgid "Automatically select filename e&xtension (%1)"
 msgstr "เลือกส่วนข&ยายชื่อแฟ้ม (%1) อัตโนมัติ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2365
+#: filewidgets/kfilewidget.cpp:2366
 #, kde-format
 msgid "the extension <b>%1</b>"
 msgstr "ส่วนขยายแฟ้ม <b>%1</b>"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2371
+#: filewidgets/kfilewidget.cpp:2372
 #, kde-format
 msgid "Automatically select filename e&xtension"
 msgstr "เลือกส่วนข&ยายแฟ้มอัตโนมัติ"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2372
+#: filewidgets/kfilewidget.cpp:2373
 #, kde-format
 msgid "a suitable extension"
 msgstr "ส่วนขยายแฟ้มที่เหมาะสม"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2380
+#: filewidgets/kfilewidget.cpp:2381
 #, kde-format
 msgid ""
 "This option enables some convenient features for saving files with extensions:<br />"
@@ -3787,25 +3788,25 @@ msgstr ""
 "หากไม่แน่ใจ ให้เปิดใช้งานตัวเลือกนี้เอาไว้ เพราะว่ามันจะทำให้แฟ้มของคุณสามารถที่จะจัดการได้ง่าย"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2854
+#: filewidgets/kfilewidget.cpp:2855
 #, kde-format
 msgid "&File type:"
 msgstr "&ชนิดไฟล์:"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2855
+#: filewidgets/kfilewidget.cpp:2856
 #, kde-format
 msgid "<qt>This is the file type selector. It is used to select the format that the file will be saved as.</qt>"
 msgstr "<qt>นี่คือตัวเลือกประเภทไฟล์ ใช้เพื่อเลือกรูปแบบที่จะบันทึกไฟล์</qt>"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2857
+#: filewidgets/kfilewidget.cpp:2858
 #, kde-format
 msgid "&Filter:"
 msgstr "&กรอง:"
 
 #. +> trunk6 trunk5
-#: filewidgets/kfilewidget.cpp:2859
+#: filewidgets/kfilewidget.cpp:2860
 #, kde-format
 msgid ""
 "<qt>This is the filter to apply to the file list. File names that do not match the filter will not be shown."
@@ -3913,7 +3914,7 @@ msgstr "ไม่สามารถใช้แบ็กสแลชในชื
 #, kde-kuit-format
 msgctxt "@error"
 msgid "Creating a file or folder with the name <filename>%1</filename> is not possible since it would overlap with the location of a user's home folder."
-msgstr ""
+msgstr "การสร้างไฟล์หรือโฟลเดอร์ที่ชื่อ <filename>%1</filename> เป็นไปไม่ได้ เนื่องจากจะทับซ้อนกับตำแหน่งของโฟลเดอร์โฮมของผู้ใช้"
 
 #. +> trunk6 trunk5
 #: filewidgets/knewfilemenu.cpp:1250
@@ -7782,31 +7783,31 @@ msgid "Information"
 msgstr "ข้อมูล"
 
 #. +> trunk6 trunk5
-#: widgets/skipdialog.cpp:47
+#: widgets/skipdialog.cpp:48
 #, kde-format
 msgid "Replace"
 msgstr "แทนที่"
 
 #. +> trunk6 trunk5
-#: widgets/skipdialog.cpp:53
+#: widgets/skipdialog.cpp:54
 #, kde-format
 msgid "Retry"
 msgstr "ลองอีกครั้ง"
 
 #. +> trunk6 trunk5
-#: widgets/skipdialog.cpp:60
+#: widgets/skipdialog.cpp:61
 #, kde-format
 msgid "Replace All"
 msgstr "แทนทั้งหมด"
 
 #. +> trunk6 trunk5
-#: widgets/skipdialog.cpp:67
+#: widgets/skipdialog.cpp:68
 #, kde-format
 msgid "Skip"
 msgstr "ข้าม"
 
 #. +> trunk6 trunk5
-#: widgets/skipdialog.cpp:71
+#: widgets/skipdialog.cpp:72
 #, kde-format
 msgid "Skip All"
 msgstr "ข้ามทั้งหมด"
