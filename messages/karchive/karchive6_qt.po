@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: karchive6_qt\n"
-"POT-Creation-Date: 2025-04-03 10:40+0200\n"
+"POT-Creation-Date: 2025-04-30 09:39+0200\n"
 "PO-Revision-Date: 2025-03-17 14:53+0700\n"
 "Last-Translator: Thai Translator <none>\n"
 "Language-Team: Thai <kde-i18n-docs@kde.org>\n"
@@ -12,147 +12,147 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2498
+#: k7zip.cpp:2497
 msgctxt "K7Zip|"
 msgid "Could not get underlying device"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2506
+#: k7zip.cpp:2505
 msgctxt "K7Zip|"
 msgid "Read header failed"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2512
+#: k7zip.cpp:2511
 msgctxt "K7Zip|"
 msgid "Check signature failed"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2535
+#: k7zip.cpp:2534
 msgctxt "K7Zip|"
 msgid "Bad CRC"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2544
+#: k7zip.cpp:2543
 msgctxt "K7Zip|"
 msgid "Next header size is too big"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2549
+#: k7zip.cpp:2548
 msgctxt "K7Zip|"
 msgid "Next header size is less than zero"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2560
+#: k7zip.cpp:2559
 #, qt-format
 msgctxt "K7Zip|"
 msgid "Failed read next header size; should read %1, read %2"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2573
+#: k7zip.cpp:2572
 msgctxt "K7Zip|"
 msgid "Bad next header CRC"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2581
+#: k7zip.cpp:2580
 msgctxt "K7Zip|"
 msgid "Error in header"
 msgstr ""
 
 #. +> trunk6
-#: k7zip.cpp:2599 k7zip.cpp:2632
+#: k7zip.cpp:2598 k7zip.cpp:2631
 msgctxt "K7Zip|"
 msgid "Password needed for this archive"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2605
+#: k7zip.cpp:2604
 msgctxt "K7Zip|"
 msgid "Wrong header type"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2615 k7zip.cpp:2621
+#: k7zip.cpp:2614 k7zip.cpp:2620
 msgctxt "K7Zip|"
 msgid "Not implemented"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2627
+#: k7zip.cpp:2626
 msgctxt "K7Zip|"
 msgid "Error while reading main streams information"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2651
+#: k7zip.cpp:2650
 msgctxt "K7Zip|"
 msgid "Error while reading header"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2711
+#: k7zip.cpp:2710
 msgctxt "K7Zip|"
 msgid "Error reading modification time"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2757
+#: k7zip.cpp:2756
 msgctxt "K7Zip|"
 msgid "Error reading MTime"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2764
+#: k7zip.cpp:2763
 msgctxt "K7Zip|"
 msgid "Invalid"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:2786
+#: k7zip.cpp:2785
 #, qt-format
 msgctxt "K7Zip|"
 msgid "Read size failed (checkRecordsSize: %1, d->pos - ppp: %2, size: %3)"
 msgstr ""
 
 #. +> trunk6
-#: k7zip.cpp:2825
+#: k7zip.cpp:2824
 msgctxt "K7Zip|"
 msgid "contents"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:3010
+#: k7zip.cpp:3009
 msgctxt "K7Zip|"
 msgid "Write error"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:3040
+#: k7zip.cpp:3039
 msgctxt "K7Zip|"
 msgid "Failed while encoding header"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:3084
+#: k7zip.cpp:3083
 msgctxt "K7Zip|"
 msgid "No file currently selected"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:3108 k7zip.cpp:3158 k7zip.cpp:3198
+#: k7zip.cpp:3107 k7zip.cpp:3157 k7zip.cpp:3197
 msgctxt "K7Zip|"
 msgid "Application error: 7-Zip file must be open before being written into"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: k7zip.cpp:3114 k7zip.cpp:3204
+#: k7zip.cpp:3113 k7zip.cpp:3203
 msgctxt "K7Zip|"
 msgid "Application error: attempted to write into non-writable 7-Zip file"
 msgstr ""
@@ -392,62 +392,68 @@ msgid "Application error: attempted to write into non-writable TAR file"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:474 kzip.cpp:496
+#: kzip.cpp:482 kzip.cpp:507
 #, qt-format
 msgctxt "KZip|"
 msgid "Invalid ZIP file. Unexpected end of file. (Error code: %1)"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:522
+#: kzip.cpp:533
 msgctxt "KZip|"
 msgid "Invalid ZIP file. Negative name length"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:527
+#: kzip.cpp:538
 msgctxt "KZip|"
 msgid "Invalid ZIP file. Name not completely read (#2)"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:546
+#: kzip.cpp:556
 msgctxt "KZip|"
 msgid "Invalid ZIP File. Broken ExtraField."
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:560 kzip.cpp:583
+#: kzip.cpp:570 kzip.cpp:593
 msgctxt "KZip|"
 msgid "Could not seek to next header token"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:575
+#: kzip.cpp:585
 msgctxt "KZip|"
 msgid "Invalid ZIP file. Unexpected end of file. (#5)"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:591
+#: kzip.cpp:601
 msgctxt "KZip|"
 msgid "Could not seek to file compressed size"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:607
+#: kzip.cpp:617
 msgctxt "KZip|"
 msgid "Invalid ZIP file. Unexpected end of file. (#1)"
 msgstr ""
 
+#. +> trunk5
+#: kzip.cpp:787 kzip.cpp:797
+msgctxt "KZip|"
+msgid "Invalid ZIP file. Unexpected end of file."
+msgstr ""
+
 #. +> trunk6 trunk5
-#: kzip.cpp:644
+#: kzip.cpp:654
 msgctxt "KZip|"
 msgid "Invalid ZIP file, central entry too short (not long enough for valid entry)"
 msgstr ""
 
 #. +> trunk6
-#: kzip.cpp:659
+#: kzip.cpp:669
 msgctxt "KZip|"
 msgid "Invalid ZIP file, file path name length is zero"
 msgstr ""
@@ -458,104 +464,111 @@ msgctxt "KZip|"
 msgid "Invalid ZIP file, file path name length smaller or equal to zero"
 msgstr ""
 
+#. +> trunk6
+#: kzip.cpp:722
+#, qt-format
+msgctxt "KZip|"
+msgid "Invalid ZIP file, inconsistent Local Header Offset in Central Directory at %1"
+msgstr ""
+
 #. +> trunk6 trunk5
-#: kzip.cpp:737
+#: kzip.cpp:757
 msgctxt "KZip|"
 msgid "Invalid ZIP file, found empty entry name"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:779
+#: kzip.cpp:799
 #, qt-format
 msgctxt "KZip|"
 msgid "File %1 is in folder %2, but %3 is actually a file."
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:790
+#: kzip.cpp:810
 msgctxt "KZip|"
 msgid "Could not seek to next entry"
 msgstr ""
 
-#. +> trunk6 trunk5
-#: kzip.cpp:814
+#. +> trunk6
+#: kzip.cpp:839
 msgctxt "KZip|"
-msgid "Invalid ZIP file. Unexpected end of file."
+msgid "Not a ZIP file, no Local File Header found."
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:818
+#: kzip.cpp:843
 #, qt-format
 msgctxt "KZip|"
 msgid "Invalid ZIP file. Unrecognized header at offset %1"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:846
+#: kzip.cpp:871
 #, qt-format
 msgctxt "KZip|"
 msgid "Could not seek to next file header: %1"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:872 kzip.cpp:966
+#: kzip.cpp:897 kzip.cpp:991
 #, qt-format
 msgctxt "KZip|"
 msgid "Could not write file header: %1"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:1013
+#: kzip.cpp:1038
 #, qt-format
 msgctxt "KZip|"
 msgid "Could not write central dir record: %1"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:1049
+#: kzip.cpp:1074
 msgctxt "KZip|"
 msgid "Application error: ZIP file must be open before being written into"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:1055
+#: kzip.cpp:1080
 msgctxt "KZip|"
 msgid "Application error: attempted to write into non-writable ZIP file"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:1061
+#: kzip.cpp:1086
 msgctxt "KZip|"
 msgid "Cannot create a device. Disk full?"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:1067
+#: kzip.cpp:1092
 msgctxt "KZip|"
 msgid "Cannot seek in ZIP file. Disk full?"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:1211
+#: kzip.cpp:1236
 msgctxt "KZip|"
 msgid "Could not write to the archive. Disk full?"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:1230
+#: kzip.cpp:1255
 #, qt-format
 msgctxt "KZip|"
 msgid "Could not open compression device: %1"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:1317
+#: kzip.cpp:1342
 msgctxt "KZip|"
 msgid "No file or device"
 msgstr ""
 
 #. +> trunk6 trunk5
-#: kzip.cpp:1330
+#: kzip.cpp:1355
 #, qt-format
 msgctxt "KZip|"
 msgid "Error writing data: %1"
