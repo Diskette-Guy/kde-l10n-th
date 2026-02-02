@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.krita.appdata\n"
 "POT-Creation-Date: 2022-04-13 10:49+0200\n"
-"PO-Revision-Date: 2026-02-02 12:27+0700\n"
+"PO-Revision-Date: 2026-02-02 16:57+0700\n"
 "Last-Translator: PBMINE <pblikemine@gmail.com>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -44,8 +44,8 @@ msgid ""
 "It is perfect for sketching and painting, and presents an end–to–end solution "
 "for creating digital painting files from scratch by masters."
 msgstr ""
-"เป็นเเอปที่สมบูรณ์เเบบสำหรับการร่างภาพเเละการวาดภาพ เเละให้คำตอบสำหรับสร้างไฟล"
-"์วาดภาพ ตั้งเเต่ต้นจากผู้เชี่ยวชาญ"
+"เป็นเเอปที่สมบูรณ์เเบบสำหรับการร่างภาพเเละการวาดภาพ เเละเป็นคำตอบที่ครบจบในที่"
+"เดียวสำหรับการสร้างไฟล์วาดภาพ ตั้งเเต่ต้นจากผู้เชี่ยวชาญ"
 
 #. (itstool) path: description/p
 #. +> trunk5 stable5
@@ -66,7 +66,9 @@ msgstr ""
 msgid ""
 "Have fun painting with the advanced brush engines, amazing filters and many ha"
 "ndy features that make Krita enormously productive."
-msgstr "ขอให้สนุกกับการวาดรูปด้วยบรัชเอนจินขั้นสูง ฟิลเตอร์ที่ยอดเยี่ยมเเละฟี"
+msgstr ""
+"ขอให้สนุกกับการวาดรูปด้วยบรัชเอนจินขั้นสูง ฟิลเตอร์ที่ยอดเยี่ยมเเละฟีเชอร์ที่ใ"
+"ช้งานง่ายที่หลากหลายทำให้ krita มีประสิทธิภาพในการทำงานอย่างมหาศาล"
 
 #. (itstool) path: screenshot/caption
 #. +> trunk5 stable5
@@ -115,8 +117,8 @@ msgstr "Krita ให้ฟิลเตอร์ที่ทรงพลัง"
 msgid ""
 "And, there is integration with G'Mic, too, which adds hundreds of filters more"
 msgstr ""
-" เเละ สามารถใช้รวมกับ G'Mic ได้ด้วย ซึ่งเพิ่ม ฟิลเตอร์มากกว่า 100 ชนิดเเละอีกม"
-"ากมาย"
+"เเละ สามารถใช้รวมกับ G'Mic ได้ด้วย ซึ่งเพิ่ม ฟิลเตอร์มากกว่า 100 ชนิดเเละอีกมา"
+"กมาย"
 
 #. (itstool) path: screenshot/caption
 #. +> trunk5 stable5
@@ -134,4 +136,4 @@ msgstr "ชุมชนนักวาดรูปของ krita"
 #. +> trunk5 stable5
 #: org.kde.krita.appdata.xml:59
 msgid "Or the active <_:a-1/>"
-msgstr "หรือ ชุมชน <_:a-1/>"
+msgstr "หรือ ชุมชนที่คึกคัก <_:a-1/>"
