@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-03-21 11:15+0100\n"
-"PO-Revision-Date: 2026-03-09 21:46+0700\n"
+"PO-Revision-Date: 2026-03-25 03:09+0700\n"
 "Last-Translator: PBMINE <pblikemine@gmail.com>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -5903,48 +5903,48 @@ msgstr "ค่าทั่วไป"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Grid"
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Grid01.pat"
 msgid "Grid01"
-msgstr "เส้นตาราง"
+msgstr "ตาราง01"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Grid"
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Grid02.pat"
 msgid "Grid02"
-msgstr "เส้นตาราง"
+msgstr "ตาราง02"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Grid"
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Grid03.pat"
 msgid "Grid03"
-msgstr "เส้นตาราง"
+msgstr "ตาราง03"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Grid"
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Grid04.pat"
 msgid "Grid04"
-msgstr "เส้นตาราง"
+msgstr "ตาราง04"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Grid"
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Grid05.pat"
 msgid "Grid05"
-msgstr "เส้นตาราง"
+msgstr "ตาราง05"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
@@ -5983,51 +5983,51 @@ msgstr "ใช้ลวดลายปัจจุบัน"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Pattern01.pat"
 msgid "Pattern01"
-msgstr "ลวดลาย"
+msgstr "ลวดลาย01"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Pattern02.pat"
 msgid "Pattern02"
-msgstr "ลวดลาย"
+msgstr "ลวดลาย02"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Pattern03.pat"
 msgid "Pattern03"
-msgstr "ลวดลาย"
+msgstr "ลวดลาย03"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Pattern04.pat"
 msgid "Pattern04"
-msgstr "ลวดลาย"
+msgstr "ลวดลาย04"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Pattern05.pat"
 msgid "Pattern05"
-msgstr "ลวดลาย"
+msgstr "ลวดลาย05"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Pattern06.pat"
 msgid "Pattern06"
-msgstr "ลวดลาย"
+msgstr "ลวดลาย06"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
@@ -6056,83 +6056,83 @@ msgstr "ทำดัชนีเทียบสี"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares01.pat"
 msgid "Squares01"
-msgstr "รูปภาพ"
+msgstr "จัตุรัส01"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares02.pat"
 msgid "Squares02"
-msgstr "รูปภาพ"
+msgstr "จัตุรัส02"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares03.pat"
 msgid "Squares03"
-msgstr "รูปภาพ"
+msgstr "จัตุรัส03"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares04.pat"
 msgid "Squares04"
-msgstr "รูปภาพ"
+msgstr "จตุรัส04"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares05.pat"
 msgid "Squares05"
-msgstr "รูปภาพ"
+msgstr "จตุรัส05"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares06.pat"
 msgid "Squares06"
-msgstr "รูปภาพ"
+msgstr "จตุรัส06"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares07.pat"
 msgid "Squares07"
-msgstr "รูปภาพ"
+msgstr "จตุรัส07"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares08.pat"
 msgid "Squares08"
-msgstr "รูปภาพ"
+msgstr "จตุรัส08"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares09.pat"
 msgid "Squares09"
-msgstr "รูปภาพ"
+msgstr "จตุรัส09"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "./krita/data/bundles/Krita_4_Default_Resources.bundle:patterns/Squares10.pat"
 msgid "Squares10"
-msgstr "รูปภาพ"
+msgstr "จตุรัส10"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
@@ -57897,10 +57897,10 @@ msgstr ""
 
 #. +> trunk5 stable5
 #: plugins/generators/screentone/KisScreentoneGeneratorConfiguration.cpp:33
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Screentone Pattern - Square Dots"
 msgid "Square"
-msgstr "รูปภาพ"
+msgstr "สี่เหลี่ยมจตุรัส"
 
 #. +> trunk5 stable5
 #: plugins/generators/screentone/KisScreentoneGeneratorConfiguration.cpp:36
@@ -63818,9 +63818,9 @@ msgstr "สี"
 #. i18n: ectx: property (text), item, widget (QComboBox, comboBoxShape)
 #. +> trunk5 stable5
 #: plugins/paintops/libpaintop/forms/wdgautobrush.ui:101
-#, fuzzy, kde-format
+#, kde-format
 msgid "Square"
-msgstr "รูปภาพ"
+msgstr "สี่เหลี่ยมจตุรัส"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, btnAntialiasing)
 #. i18n: ectx: property (toolTip), widget (QCheckBox, chkInvert)
