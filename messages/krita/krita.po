@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-03-21 11:15+0100\n"
-"PO-Revision-Date: 2026-03-25 03:09+0700\n"
+"PO-Revision-Date: 2026-04-22 08:14+0700\n"
 "Last-Translator: PBMINE <pblikemine@gmail.com>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 25.12.3\n"
+"X-Generator: Lokalize 26.04.0\n"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
@@ -8925,10 +8925,10 @@ msgstr ""
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
 #: krita/data/palettes/animation-color-set.gpl:2
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "./krita/data/palettes/animation-color-set.gpl"
 msgid "Animation Color Set"
-msgstr "เลเยอร์"
+msgstr "เซ็ตสีแอนิเมชัน"
 
 #. i18n: Display name of resource, see context: [path-to-resources]/[resource-type]/[resource-filename]
 #. +> trunk5 stable5
@@ -10118,7 +10118,7 @@ msgstr "ตั้งสีพื้นหน้าและสีพื้นห
 #. i18n: context: iconText @ Action (toggle_fg_bg), Actions (Painting), ActionCollection (Krita)
 #. +> trunk5 stable5
 #: krita/krita.action:767 krita/krita.action:770
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Swap Foreground and Background Colors"
 msgstr "สลับสีพื้นหน้ากับสีพื้นหลัง"
@@ -10126,7 +10126,7 @@ msgstr "สลับสีพื้นหน้ากับสีพื้นห
 #. i18n: context: toolTip @ Action (toggle_fg_bg), Actions (Painting), ActionCollection (Krita)
 #. +> trunk5 stable5
 #: krita/krita.action:769
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Swap foreground and background colors"
 msgstr "สลับสีพื้นหน้ากับสีพื้นหลัง"
@@ -11745,10 +11745,10 @@ msgstr "การเลือก"
 #. i18n: context: text @ Actions (Animation), ActionCollection (Krita)
 #. +> trunk5 stable5
 #: krita/krita.action:1895
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Animation"
-msgstr "หมุน &90"
+msgstr "แอนิเมชัน"
 
 #. i18n: context: text @ Action (previous_frame), Actions (Animation), ActionCollection (Krita)
 #. i18n: context: iconText @ Action (previous_frame), Actions (Animation), ActionCollection (Krita)
@@ -11910,10 +11910,10 @@ msgstr ""
 #. i18n: context: iconText @ Action (toggle_playback), Actions (Animation), ActionCollection (Krita)
 #. +> trunk5 stable5
 #: krita/krita.action:1994 krita/krita.action:1996 krita/krita.action:1997
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Play / pause animation"
-msgstr "เพิ่มเลเยอร์..."
+msgstr "เล่น / หยุด แอนิเมชัน"
 
 #. i18n: context: text @ Action (stop_playback), Actions (Animation), ActionCollection (Krita)
 #. i18n: context: toolTip @ Action (stop_playback), Actions (Animation), ActionCollection (Krita)
@@ -11923,11 +11923,11 @@ msgstr "เพิ่มเลเยอร์..."
 #. i18n: context: iconText @ Action (stop_playback), Actions (Animation), ActionCollection (Krita)
 #. +> trunk5 stable5
 #: krita/krita.action:2006 krita/krita.action:2008 krita/krita.action:2009
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Tool information"
 msgctxt "action"
 msgid "Stop animation"
-msgstr "ข้อมูลเครื่องมือ"
+msgstr "หยุดแอนิเมชัน"
 
 #. i18n: context: text @ Action (add_blank_frame), Actions (Animation), ActionCollection (Krita)
 #. +> trunk5 stable5
@@ -12401,10 +12401,10 @@ msgstr "การเพิ่ม"
 #. i18n: context: text @ Action (clear_animation_cache), Actions (Animation), ActionCollection (Krita)
 #. +> trunk5 stable5
 #: krita/krita.action:2373
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Clear Cache"
-msgstr "ตัวเลือกสี"
+msgstr "ล้างแคช"
 
 #. i18n: context: toolTip @ Action (clear_animation_cache), Actions (Animation), ActionCollection (Krita)
 #. +> trunk5 stable5
@@ -12412,7 +12412,7 @@ msgstr "ตัวเลือกสี"
 #, kde-format
 msgctxt "action"
 msgid "Clear entire animation cache. Useful for debugging."
-msgstr ""
+msgstr "ล้างแคชแอนิเมชันทั้งหมด มีประโยชน์สำหรับการแก้ข้อบกพร่อง"
 
 #. i18n: context: text @ Action (copy_frames), Actions (Animation), ActionCollection (Krita)
 #. +> trunk5 stable5
@@ -15052,10 +15052,10 @@ msgstr "การเพิ่ม"
 #. i18n: context: text @ Action (file_import_video_animation), Actions (File), ActionCollection (Menu)
 #. +> trunk5 stable5
 #: krita/kritamenu.action:129
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Import video animation..."
-msgstr "การเพิ่ม"
+msgstr "นำเข้าวีดีโอแอนิเมชัน..."
 
 #. i18n: context: toolTip @ Action (file_import_video_animation), Actions (File), ActionCollection (Menu)
 #. i18n: context: iconText @ Action (file_import_video_animation), Actions (File), ActionCollection (Menu)
@@ -15063,10 +15063,10 @@ msgstr "การเพิ่ม"
 #. i18n: context: iconText @ Action (file_import_video_animation), Actions (File), ActionCollection (Menu)
 #. +> trunk5 stable5
 #: krita/kritamenu.action:131 krita/kritamenu.action:132
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Import video animation"
-msgstr "การเพิ่ม"
+msgstr "นำเข้าวีดีโอแอนิเมชัน"
 
 #. i18n: context: text @ Action (render_animation), Actions (File), ActionCollection (Menu)
 #. +> trunk5 stable5
@@ -15570,10 +15570,10 @@ msgstr "คุณต้องการเขียนทับเอกสาร
 #. i18n: context: text @ Action (clear), Actions (Edit), ActionCollection (Menu)
 #. +> trunk5 stable5
 #: krita/kritamenu.action:446
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "C&lear"
-msgstr "ล้าง"
+msgstr "ล้&าง"
 
 #. i18n: context: toolTip @ Action (clear), Actions (Edit), ActionCollection (Menu)
 #. i18n: context: iconText @ Action (clear), Actions (Edit), ActionCollection (Menu)
@@ -15581,7 +15581,7 @@ msgstr "ล้าง"
 #. i18n: context: iconText @ Action (clear), Actions (Edit), ActionCollection (Menu)
 #. +> trunk5 stable5
 #: krita/kritamenu.action:448 krita/kritamenu.action:449
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Clear"
 msgstr "ล้าง"
@@ -17922,10 +17922,10 @@ msgstr "สี"
 #. i18n: context: text @ Action (chooseForegroundColor), Actions (BrushesAndStuff), ActionCollection (Menu)
 #. +> trunk5 stable5
 #: krita/kritamenu.action:1971
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "&Choose Foreground Color"
-msgstr "สีพื้น&หน้า"
+msgstr "&เลือกสีพื้นหน้า"
 
 #. i18n: context: toolTip @ Action (chooseForegroundColor), Actions (BrushesAndStuff), ActionCollection (Menu)
 #. i18n: context: iconText @ Action (chooseForegroundColor), Actions (BrushesAndStuff), ActionCollection (Menu)
@@ -17933,10 +17933,10 @@ msgstr "สีพื้น&หน้า"
 #. i18n: context: iconText @ Action (chooseForegroundColor), Actions (BrushesAndStuff), ActionCollection (Menu)
 #. +> trunk5 stable5
 #: krita/kritamenu.action:1973 krita/kritamenu.action:1974
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Choose Foreground Color"
-msgstr "สีพื้น&หน้า"
+msgstr "เลือกสีพื้นหน้า"
 
 #. i18n: context: text @ Action (chooseBackgroundColor), Actions (BrushesAndStuff), ActionCollection (Menu)
 #. +> trunk5 stable5
@@ -24633,16 +24633,16 @@ msgstr "การจัดวางหน้ากระดาษ"
 #. +> trunk5 stable5
 #: libs/image/krita_utils.cpp:359
 #: plugins/dockers/animation/KisAnimTimelineLayersHeader.cpp:252
-#, fuzzy, kde-format
+#, kde-format
 msgid "off"
-msgstr "แปรงทาสี"
+msgstr "ปิด"
 
 #. +> trunk5 stable5
 #: libs/image/krita_utils.cpp:359
 #: plugins/dockers/animation/KisAnimTimelineLayersHeader.cpp:252
-#, fuzzy, kde-format
+#, kde-format
 msgid "on"
-msgstr "ไม่มี"
+msgstr "เปิด"
 
 #. +> trunk5 stable5
 #: libs/image/layerstyles/kis_ls_bevel_emboss_filter.cpp:45
@@ -26679,7 +26679,7 @@ msgstr "กำหนดเอง"
 #: libs/ui/actions/KisPasteActionFactories.cpp:392
 #: libs/ui/animation/KisDlgAnimationRenderer.cpp:533 libs/ui/KisView.cpp:1188
 #: plugins/generators/seexpr/kis_wdg_seexpr.cpp:34
-#, fuzzy, kde-format
+#, kde-format
 msgid "Untitled"
 msgstr "ยังไม่กำหนดชื่อ"
 
@@ -28018,24 +28018,24 @@ msgstr " FPS"
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:88
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:94
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:650
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Second as a unit following a value, like 60 s"
 msgid " s"
-msgstr "วินาที"
+msgstr "  วิ"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:100
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Import video to New Document"
 msgid "New Document"
-msgstr "เปิดในเอกสารใหม่"
+msgstr "เอกสารใหม่"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:103
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Import video to Current Document"
 msgid "Current Document"
-msgstr "ไล่ระดับสี"
+msgstr "เอกสารปัจจุบัน"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:106
@@ -28062,11 +28062,11 @@ msgstr ""
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:183
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Krita"
 msgctxt "Title for a messagebox"
 msgid "Krita"
-msgstr "ดินสอสี"
+msgstr "Krita"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:184
@@ -28102,17 +28102,17 @@ msgstr "หมุนโหนด"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:379
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "video importer: video file statistics"
 msgid "Width: %1 px"
-msgstr "&กว้าง:"
+msgstr "กว้าง: %1 px"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:380
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "video importer: video file statistics"
 msgid "Height: %1 px"
-msgstr "อยู่เหนือ %1 ตัวปัจจุบัน"
+msgstr "สูง: %1 px"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:384
@@ -28360,9 +28360,9 @@ msgstr "คุณสมบัติเลเยอร์..."
 #. i18n: ectx: property (title), widget (QGroupBox, chkUseHDRMetadata)
 #. +> trunk5 stable5
 #: libs/ui/animation/video_export_options_dialog.ui:188
-#, fuzzy, kde-format
+#, kde-format
 msgid "HDR Mode"
-msgstr "โหมด:"
+msgstr "โหมด HDR:"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnHdrMetadata)
 #. +> trunk5 stable5
@@ -28518,9 +28518,9 @@ msgstr ""
 #: plugins/filters/colorsfilters/wdg_perchannel.ui:346
 #: plugins/tools/basictools/wdgmultihandtool.ui:192
 #: plugins/tools/tool_transform2/kis_tool_transform.cc:138
-#, fuzzy, kde-format
+#, kde-format
 msgid "Reset"
-msgstr "เลือกใหม่"
+msgstr "รีเซ็ต"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoExportOptionsDialog.cpp:39
@@ -28837,10 +28837,10 @@ msgstr "รูปภาพ"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoExportOptionsDialog.cpp:91
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "webp preset option name"
 msgid "text"
-msgstr "ตัวหนา"
+msgstr "ข้อความ"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoExportOptionsDialog.cpp:93
@@ -28969,21 +28969,21 @@ msgstr ""
 #, kde-format
 msgctxt "WEBP codec name"
 msgid "WEBP"
-msgstr ""
+msgstr "WEBP"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoExportOptionsDialog.cpp:308
 #, kde-format
 msgctxt "APNG codec name"
 msgid "APNG"
-msgstr ""
+msgstr "APNG"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoExportOptionsDialog.cpp:311
 #, kde-format
 msgctxt "GIF codec name"
 msgid "GIF"
-msgstr ""
+msgstr "GIF"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoExportOptionsDialog.cpp:580
@@ -29003,13 +29003,13 @@ msgstr ""
 #: libs/ui/animation/VideoHDRMetadataOptionsDialog.cpp:25
 #, kde-format
 msgid "Rec. 2100 PQ"
-msgstr ""
+msgstr "Rec. 2100 PQ"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoHDRMetadataOptionsDialog.cpp:26
 #, kde-format
 msgid "DCI-P3 D65"
-msgstr ""
+msgstr "DCI-P3 D65"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbSelectionColorSpace)
 #. +> trunk5 stable5
@@ -29298,9 +29298,9 @@ msgstr "เริ่มที่: "
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoImportDialog.ui:473
 #: plugins/paintops/libpaintop/sensors/SensorTimeConfiguration.ui:54
-#, fuzzy, kde-format
+#, kde-format
 msgid "Duration:"
-msgstr "ความอิ่มสี"
+msgstr "ระยะเวลา:"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabOptions)
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
@@ -29310,16 +29310,16 @@ msgstr "ความอิ่มสี"
 #: libs/ui/forms/wdgperformancesettings.ui:251
 #: plugins/impex/jxl/kis_wdg_options_jpegxl.ui:386
 #: plugins/impex/webp/kis_wdg_options_webp.ui:147
-#, fuzzy, kde-format
+#, kde-format
 msgid "Advanced"
-msgstr "การเลือก"
+msgstr "ขั้นสูง"
 
 #. i18n: ectx: property (title), widget (QGroupBox, optionsDocumentGroup)
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoImportDialog.ui:518
-#, fuzzy, kde-format
+#, kde-format
 msgid "Document"
-msgstr "เปิดในเอกสารใหม่"
+msgstr "เอกสาร"
 
 #. i18n: ectx: property (text), widget (QLabel, lblPixelWidth)
 #. i18n: ectx: property (text), widget (QLabel, lblNewWidth)
@@ -29418,10 +29418,10 @@ msgstr "นำเข้ารูปภาพ..."
 #: libs/ui/animation/VideoImportDialog.ui:585
 #: libs/ui/animation/wdg_animationrenderer.ui:188
 #: plugins/python/documenttools/tools/scaletool/scaletool.py:43
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Resize intepolation method list label"
 msgid "Filter:"
-msgstr "&ขาว"
+msgstr "ฟิลเตอร์:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, optionsFFMpegGroup)
 #. +> trunk5 stable5
@@ -29498,9 +29498,9 @@ msgstr "สร้างเลเยอร์ใหม่"
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk5 stable5
 #: libs/ui/animation/wdg_animationrenderer.ui:86
-#, fuzzy, kde-format
+#, kde-format
 msgid "Image location:"
-msgstr "การเลือก"
+msgstr "ตำแหน่งรูปภาพ:"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk5 stable5
@@ -33789,9 +33789,9 @@ msgstr "(ต้องเริ่มโปรแกรมใหม่)"
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
 #. +> trunk5 stable5
 #: libs/ui/forms/wdggeneralsettings.ui:1404
-#, fuzzy, kde-format
+#, kde-format
 msgid "Animation"
-msgstr "หมุน &90"
+msgstr "แอนิเมชัน"
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_chkAutoPin)
 #. +> trunk5 stable5
@@ -33962,9 +33962,9 @@ msgstr "ทำดัชนีเทียบสี"
 #. +> trunk5 stable5
 #: libs/ui/forms/wdggeometryoptions.ui:64
 #: plugins/paintops/experiment/wdgexperimentoptions.ui:156
-#, fuzzy, kde-format
+#, kde-format
 msgid "Foreground Color"
-msgstr "สีพื้น&หน้า"
+msgstr "สีพื้นหน้า"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbFill)
 #. +> trunk5 stable5
@@ -35945,9 +35945,9 @@ msgstr "เลเยอร์"
 #: libs/ui/forms/wdgstrokeselectionproperties.ui:224
 #: plugins/tools/basictools/kis_tool_fill.cc:643
 #: plugins/tools/tool_enclose_and_fill/KisToolEncloseAndFill.cpp:555
-#, fuzzy, kde-format
+#, kde-format
 msgid "Foreground color"
-msgstr "สีพื้น&หน้า"
+msgstr "สีพื้นหน้า"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, lineColorBox)
 #. i18n: ectx: property (text), item, widget (QComboBox, fillBox)
@@ -37601,9 +37601,9 @@ msgstr "ไล่&ระดับสี"
 
 #. +> trunk5 stable5
 #: libs/ui/kis_control_frame.cpp:100
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Choose foreground and background colors"
-msgstr "ตั้งสีพื้นหน้าและสีพื้นหลังใหม่"
+msgstr "&เลือกสีพื้นหน้าและสีพื้นหลัง"
 
 #. +> trunk5 stable5
 #: libs/ui/kis_control_frame.cpp:115
@@ -37613,9 +37613,9 @@ msgstr "เ&ครื่องมือทาสี"
 
 #. +> trunk5 stable5
 #: libs/ui/kis_control_frame.cpp:120
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Open Foreground color selector"
-msgstr "การเลือก"
+msgstr "&เปิดตัวเลือกสีพื้นหน้า"
 
 #. +> trunk5 stable5
 #: libs/ui/kis_control_frame.cpp:125
@@ -38450,9 +38450,9 @@ msgstr "จานสี"
 
 #. +> trunk5 stable5
 #: libs/ui/kis_popup_palette.cpp:153
-#, fuzzy, kde-format
+#, kde-format
 msgid "Clear color history"
-msgstr "การเลือก"
+msgstr "ล้างประวัติสี"
 
 #. +> trunk5 stable5
 #: libs/ui/kis_popup_palette.cpp:176
@@ -41871,7 +41871,6 @@ msgstr ""
 #. +> trunk5 stable5
 #: libs/ui/tool/kis_tool_utils.cpp:212 libs/ui/tool/kis_tool_utils.cpp:224
 #: plugins/dockers/animation/KisAnimUtils.cpp:79
-#, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Clear"
 msgstr "ล้าง"
@@ -43965,19 +43964,19 @@ msgstr ""
 
 #. +> trunk5 stable5
 #: libs/ui/widgets/KoDualColorButton.cpp:426
-#, fuzzy, kde-format
+#, kde-format
 msgid "Foreground color selector"
-msgstr "การเลือก"
+msgstr "ตัวเลือกสีพื้นหน้า"
 
 #. +> trunk5 stable5
 #: libs/ui/widgets/KoDualColorButton.cpp:429
-#, fuzzy, kde-format
+#, kde-format
 msgid "Set foreground and background colors to black and white"
-msgstr "ตั้งสีพื้นหน้าและสีพื้นหลังใหม่"
+msgstr "ตั้งสีพื้นหน้าและสีพื้นหลังเป็นขาวและดำ"
 
 #. +> trunk5 stable5
 #: libs/ui/widgets/KoDualColorButton.cpp:434
-#, fuzzy, kde-format
+#, kde-format
 msgid "Swap foreground and background colors"
 msgstr "สลับสีพื้นหน้ากับสีพื้นหลัง"
 
@@ -46702,9 +46701,9 @@ msgstr "เพิ่มช่อง"
 
 #. +> trunk5 stable5
 #: plugins/dockers/advancedcolorselector/kis_color_history.cpp:30
-#, fuzzy, kde-format
+#, kde-format
 msgid "Clear all color history"
-msgstr "การเลือก"
+msgstr "ล้างประวัติสีทั้งหมด"
 
 #. +> trunk5 stable5
 #: plugins/dockers/advancedcolorselector/kis_color_selector_ng_dock.cpp:24
@@ -47244,10 +47243,10 @@ msgstr "เหลือง"
 
 #. +> trunk5
 #: plugins/dockers/animation/kis_equalizer_widget.cpp:144
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Reset to default"
 msgid "Reset"
-msgstr "เลือกใหม่"
+msgstr "รีเซ็ต"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimCurvesDocker.cpp:61
@@ -47491,18 +47490,18 @@ msgstr "โหมด:"
 
 #. +> stable5
 #: plugins/dockers/animation/KisAnimTimelineDocker.cpp:148
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:inmenu Volume slider"
 msgid "Volume: "
-msgstr "น้ำเงิน"
+msgstr "ระดับเสียง:"
 
 #. +> trunk5
 #: plugins/dockers/animation/KisAnimTimelineDocker.cpp:151
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "@item:inmenu Volume slider; {n} is the number value, % is the percent sign"
 msgid "Volume: {n}%"
-msgstr "น้ำเงิน"
+msgstr "ระดับเสียง: {n}%"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimTimelineDocker.cpp:171
@@ -47605,10 +47604,10 @@ msgstr "สร้างเลเยอร์ใหม่"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimTimelineFramesView.cpp:1654
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:inmenu"
 msgid "Keyframes"
-msgstr "เลเยอร์ %1"
+msgstr "คีย์เฟรม"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimTimelineFramesView.cpp:1662
@@ -47651,9 +47650,9 @@ msgstr "คัดลอกจาก"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimUtils.cpp:29
-#, fuzzy, kde-format
+#, kde-format
 msgid "New Layer"
-msgstr "เลเยอร์&ถัดไป"
+msgstr "เลเยอร์ใหม่"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimUtils.cpp:30
@@ -47682,41 +47681,38 @@ msgstr "เลเยอร์ %1"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimUtils.cpp:38
-#, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Copy Keyframe"
-msgstr "เลเยอร์ %1"
+msgstr "คัดลอกคีย์เฟรม"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimUtils.cpp:39
-#, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Add Keyframe"
-msgstr "เลเยอร์ %1"
+msgstr "เพิ่มคีย์เฟรม"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimUtils.cpp:146
-#, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Remove Keyframe"
 msgid_plural "Remove Keyframes"
-msgstr[0] "เลเยอร์ %1"
+msgstr[0] "ลบคีย์เฟรม"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimUtils.cpp:319
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "(qtundo-format)"
 msgid "Move Keyframe"
 msgid_plural "Move %1 Keyframes"
-msgstr[0] "เลเยอร์ %1"
+msgstr[0] "ย้าย %1 คีย์เฟรม"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimUtils.cpp:323
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "(qtundo-format) Copy one or several keyframes"
 msgid "Copy Keyframe"
 msgid_plural "Copy %1 Keyframes"
-msgstr[0] "เลเยอร์ %1"
+msgstr[0] "คัดลอก %1 คีย์เฟรม"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimUtils.cpp:396
@@ -48852,9 +48848,9 @@ msgstr "อยู่เหนือ %1 ตัวปัจจุบัน"
 #. i18n: ectx: property (toolTip), widget (QToolButton, bnClear)
 #. +> trunk5 stable5
 #: plugins/dockers/logdocker/WdgLogDocker.ui:62
-#, fuzzy, kde-format
+#, kde-format
 msgid "Clear the log"
-msgstr "ตัวเลือกสี"
+msgstr "ล้างรายการลงบันทึก"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, bnSave)
 #. +> trunk5 stable5
@@ -49149,9 +49145,9 @@ msgstr ""
 #. i18n: ectx: property (toolTip), widget (QToolButton, bnAdd)
 #. +> trunk5 stable5
 #: plugins/dockers/palettedocker/wdgpalettedock.ui:82
-#, fuzzy, kde-format
+#, kde-format
 msgid "Add foreground color"
-msgstr "สีพื้น&หน้า"
+msgstr "เพิ่มสีพื้นหน้า"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, bnLock)
 #. +> trunk5 stable5
@@ -49205,9 +49201,9 @@ msgstr "การเลือก"
 
 #. +> trunk5 stable5
 #: plugins/dockers/presethistory/presethistory_dock.cpp:305
-#, fuzzy, kde-format
+#, kde-format
 msgid "Clear History"
-msgstr "การเลือก"
+msgstr "ล้างประวัติ"
 
 #. +> trunk5 stable5
 #: plugins/dockers/presethistory/presethistory_dock.cpp:307
@@ -50938,9 +50934,9 @@ msgstr "ความสูงพิกเซล"
 #. i18n: ectx: property (text), widget (QCheckBox, ckHistoryClearButton)
 #. +> trunk5 stable5
 #: plugins/dockers/widegamutcolorselector/WdgWGSelectorSettings.ui:734
-#, fuzzy, kde-format
+#, kde-format
 msgid "Clear Button"
-msgstr "ตั้งค่า"
+msgstr "ล้างปุ่ม"
 
 #. i18n: ectx: property (title), widget (QGroupBox, commonColorsGroupBox)
 #. +> trunk5 stable5
@@ -55762,9 +55758,9 @@ msgstr "แปลงเป็นภาษากรีก"
 #. +> trunk5 stable5
 #: plugins/filters/halftone/KisHalftoneConfigPageWidget.ui:144
 #: plugins/generators/screentone/KisScreentoneConfigWidget.ui:685
-#, fuzzy, kde-format
+#, kde-format
 msgid "Foreground:"
-msgstr "สีพื้น&หน้า"
+msgstr "สีพื้นหน้า:"
 
 #. +> trunk5 stable5
 #: plugins/filters/halftone/KisHalftoneConfigWidget.cpp:37
@@ -69754,21 +69750,18 @@ msgstr "อยู่เหนือเลเยอร์ปัจจุบัน
 
 #. +> trunk5
 #: plugins/python/workflow_buttons/buttons_settings_dialog.py:212
-#, fuzzy
 msgid "Select foreground color:"
-msgstr "สีพื้นหลัง:"
+msgstr "เลือกสีพื้นหน้า:"
 
 #. +> trunk5
 #: plugins/python/workflow_buttons/buttons_settings_dialog.py:214
-#, fuzzy
 msgid "Load current foreground color"
-msgstr "สีพื้น&หน้า"
+msgstr "โหลดสีพื้นหน้าปัจจุบัน"
 
 #. +> trunk5
 #: plugins/python/workflow_buttons/buttons_settings_dialog.py:217
-#, fuzzy
 msgid "Clear foreground color"
-msgstr "สีพื้น&หน้า"
+msgstr "ล้างสีพื้นหน้า"
 
 #. +> trunk5
 #: plugins/python/workflow_buttons/buttons_settings_dialog.py:227
@@ -69789,9 +69782,8 @@ msgstr "สีพื้นหลัง:"
 
 #. +> trunk5
 #: plugins/python/workflow_buttons/buttons_settings_dialog.py:249
-#, fuzzy
 msgid "Clear background color"
-msgstr "สีพื้นหลัง:"
+msgstr "ล้างสีพื้นหลัง"
 
 #. +> trunk5
 #: plugins/python/workflow_buttons/buttons_settings_dialog.py:275
