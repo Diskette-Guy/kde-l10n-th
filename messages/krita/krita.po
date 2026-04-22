@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-03-21 11:15+0100\n"
-"PO-Revision-Date: 2026-04-22 08:14+0700\n"
+"PO-Revision-Date: 2026-04-22 20:28+0700\n"
 "Last-Translator: PBMINE <pblikemine@gmail.com>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -13547,10 +13547,10 @@ msgstr "อยู่ใต้เลเยอร์ปัจจุบัน"
 #. i18n: context: text @ Action (import_layer_from_file), Actions (Layers), ActionCollection (Krita)
 #. +> trunk5 stable5
 #: krita/krita.action:3072
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "I&mport Layer..."
-msgstr "เลเยอร์&ถัดไป"
+msgstr "นำ&เข้าเลเยอร์..."
 
 #. i18n: context: toolTip @ Action (import_layer_from_file), Actions (Layers), ActionCollection (Krita)
 #. i18n: context: iconText @ Action (import_layer_from_file), Actions (Layers), ActionCollection (Krita)
@@ -13558,10 +13558,10 @@ msgstr "เลเยอร์&ถัดไป"
 #. i18n: context: iconText @ Action (import_layer_from_file), Actions (Layers), ActionCollection (Krita)
 #. +> trunk5 stable5
 #: krita/krita.action:3074 krita/krita.action:3075
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "action"
 msgid "Import Layer"
-msgstr "เลเยอร์&ถัดไป"
+msgstr "นำเข้าเลเยอร์"
 
 #. i18n: context: text @ Action (import_layer_as_paint_layer), Actions (Layers), ActionCollection (Krita)
 #. +> trunk5 stable5
@@ -23841,7 +23841,7 @@ msgstr "นำเข้ารูปภาพ"
 #. +> trunk5 stable5
 #: libs/image/kis_image.cc:723 libs/ui/kis_import_catcher.cc:50
 #: libs/ui/KisDocument.cpp:2634 plugins/impex/psd/psd_loader.cpp:193
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Background"
 msgctxt "Name for the bottom-most layer in the layerstack"
 msgid "Background"
@@ -24184,10 +24184,10 @@ msgstr "เปิดจานสี"
 #. +> trunk5 stable5
 #: libs/image/kis_layer_properties_icons.cpp:37
 #: plugins/python/plugin_importer/plugin_importer_extension.py:79
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Mirror Image"
 msgid "Error"
-msgstr "ภาพกลับด้าน"
+msgstr "ข้อผิดพลาด"
 
 #. +> trunk5
 #: libs/image/kis_layer_properties_icons.cpp:38
@@ -27996,10 +27996,10 @@ msgstr ""
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:40
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@title:window"
 msgid "Import Video Animation"
-msgstr "การเพิ่ม"
+msgstr "นำเข้าวีดีโอแอนิเมชัน"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:65
@@ -28203,9 +28203,9 @@ msgstr ""
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:554
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:556
-#, fuzzy, kde-format
+#, kde-format
 msgid "Open FFProbe"
-msgstr "&ขาว"
+msgstr "เปิด FFProbe"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:568
@@ -28216,10 +28216,10 @@ msgstr ""
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:575
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:577
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Open palette"
 msgid "Open FFMpeg"
-msgstr "เปิดจานสี"
+msgstr "เปิด FFMpeg"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/KisDlgImportVideoAnimation.cpp:589
@@ -28954,7 +28954,7 @@ msgstr ""
 #, kde-format
 msgctxt "VP9 codec name"
 msgid "VP9"
-msgstr ""
+msgstr "VP9"
 
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoExportOptionsDialog.cpp:302
@@ -29033,7 +29033,7 @@ msgstr "แปรงทาสี"
 #: libs/widgets/WdgDlgInternalColorSelector.ui:18
 #, kde-format
 msgid "Dialog"
-msgstr ""
+msgstr "หน้าต่างคำพูด"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk5 stable5
@@ -29192,9 +29192,9 @@ msgstr "สร้างเลเยอร์ใหม่"
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoImportDialog.ui:77
 #: libs/widgetutils/KisPreviewFileDialog.cpp:96
-#, fuzzy, kde-format
+#, kde-format
 msgid "No Preview"
-msgstr "รีเฟรชพื้นที่วาดภาพ"
+msgstr "ไม่มีตัวอย่าง"
 
 #. i18n: ectx: property (text), widget (QLabel, lblThisMin_2)
 #. i18n: ectx: property (text), widget (QLabel, lblUnderMin_2)
@@ -29267,9 +29267,9 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, importDocumentLabel)
 #. +> trunk5 stable5
 #: libs/ui/animation/VideoImportDialog.ui:325
-#, fuzzy, kde-format
+#, kde-format
 msgid "Import into:"
-msgstr "นำเข้ารูปภาพ"
+msgstr "นำเข้าไปยัง:"
 
 #. i18n: ectx: property (text), widget (QLabel, fpsLabel)
 #. +> trunk5 stable5
@@ -29711,14 +29711,14 @@ msgstr "แก้ไขไกด์"
 #: libs/ui/canvas/kis_mirror_axis.cpp:326
 #, kde-format
 msgid "Y: %1 px"
-msgstr ""
+msgstr "Y: %1 px"
 
 #. +> trunk5 stable5
 #: libs/ui/canvas/kis_guides_manager.cpp:548
 #: libs/ui/canvas/kis_mirror_axis.cpp:310
 #, kde-format
 msgid "X: %1 px"
-msgstr ""
+msgstr "X: %1 px"
 
 #. +> trunk5 stable5
 #: libs/ui/canvas/kis_guides_manager.cpp:775
@@ -30048,9 +30048,9 @@ msgstr ""
 #: plugins/impex/heif/WdgHeifExport.ui:106
 #: plugins/impex/jxl/kis_wdg_options_jpegxl.ui:343
 #: plugins/paintops/libpaintop/forms/wdgtexturechooser.ui:99
-#, fuzzy, kde-format
+#, kde-format
 msgid "Brightness:"
-msgstr "ทำให้สว่างขึ้นเท่านั้น"
+msgstr "ความสว่าง:"
 
 #. i18n: ectx: property (toolTip), widget (QDoubleSpinBox, spnNits)
 #. +> trunk5 stable5
@@ -30177,15 +30177,15 @@ msgstr "ช่องว่าง:"
 
 #. +> trunk5 stable5
 #: libs/ui/dialogs/kis_dlg_import_image_sequence.cpp:70
-#, fuzzy, kde-format
+#, kde-format
 msgid "Alphabetical"
-msgstr "ค่า"
+msgstr "เรียงตามลำดับตัวอักษร"
 
 #. +> trunk5 stable5
 #: libs/ui/dialogs/kis_dlg_import_image_sequence.cpp:71
-#, fuzzy, kde-format
+#, kde-format
 msgid "Numerical"
-msgstr "ค่า"
+msgstr "เรียงตามลำดับตัวเลข"
 
 #. +> trunk5 stable5
 #: libs/ui/dialogs/kis_dlg_import_image_sequence.cpp:142
@@ -31840,7 +31840,7 @@ msgstr "สี่เหลี่ยม"
 #: libs/ui/forms/wdgaboutapplication.ui:66
 #, kde-format
 msgid "Sponsors"
-msgstr ""
+msgstr "สปอนเซอร์"
 
 #. i18n: ectx: attribute (title), widget (QWidget, creditsTab)
 #. +> trunk5 stable5
@@ -32988,9 +32988,9 @@ msgstr "คุณสมบัติเลเยอร์..."
 #: plugins/dockers/recorder/recorder_profile_settings.ui:179
 #: plugins/impex/raw/wdgrawimport.ui:49
 #: plugins/tools/tool_transform2/wdg_tool_transform.ui:62
-#, fuzzy, kde-format
+#, kde-format
 msgid "Preview"
-msgstr "รีเฟรชพื้นที่วาดภาพ"
+msgstr "ตัวอย่าง"
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkFilterSelectedFrames)
 #. +> trunk5 stable5
@@ -34202,9 +34202,9 @@ msgstr "ลบ"
 #. +> trunk5 stable5
 #: libs/ui/forms/wdgimportimagesequence.ui:57
 #: plugins/dockers/arrangedocker/arrange_docker_widget.ui:231
-#, fuzzy, kde-format
+#, kde-format
 msgid "Order"
-msgstr "มุม:"
+msgstr "ลำดับ"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, autoAddHoldframesBox)
 #. +> trunk5 stable5
@@ -36321,7 +36321,7 @@ msgstr "&สูง:"
 #: libs/ui/imagesize/wdg_imagesize.ui:202
 #, kde-format
 msgid "Wid&th:"
-msgstr ""
+msgstr "กว้&าง:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, adjustPrintSizeSeparatelyCkb)
 #. +> trunk5 stable5
@@ -37504,10 +37504,9 @@ msgstr "น้ำเงิน"
 
 #. +> trunk5 stable5
 #: libs/ui/kis_animation_importer.cpp:65
-#, fuzzy
 msgctxt "(qtundo-format)"
 msgid "Import animation"
-msgstr "การเพิ่ม"
+msgstr "นำเข้าแอนิเมชัน"
 
 #. +> trunk5 stable5
 #: libs/ui/kis_async_action_feedback.cpp:79
@@ -39450,9 +39449,9 @@ msgstr "ไม่สามารถสร้างแฟ้มเพื่อท
 
 #. +> trunk5 stable5
 #: libs/ui/KisImportExportErrorCode.cpp:139
-#, fuzzy, kde-format
+#, kde-format
 msgid "Unexpected error."
-msgstr "มุม:"
+msgstr "ข้อผิดพลาดที่ไม่คาดคิด"
 
 #. +> trunk5 stable5
 #: libs/ui/KisImportExportErrorCode.cpp:148
@@ -39536,7 +39535,7 @@ msgstr ""
 #: libs/ui/KisImportExportErrorCode.cpp:178
 #: plugins/impex/libkra/kra_converter.cpp:390
 #: plugins/impex/libkra/kra_converter.cpp:419
-#, fuzzy, kde-format
+#, kde-format
 msgid "Unknown error."
 msgstr "ข้อผิดพลาดที่ไม่รู้จัก"
 
@@ -39972,17 +39971,17 @@ msgstr "เครื่องมือเ&ลือกสี"
 
 #. +> trunk5 stable5
 #: libs/ui/KisMainWindow.cpp:2693
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 %"
 msgid "&%1 %2"
-msgstr "%1%"
+msgstr "&%1 %2"
 
 #. +> trunk5 stable5
 #: libs/ui/KisMainWindow.cpp:2696
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "%1 %"
 msgid "%1 %2"
-msgstr "%1%"
+msgstr "%1 %2"
 
 #. +> trunk5 stable5
 #: libs/ui/KisMainWindow.cpp:2865
@@ -40238,14 +40237,14 @@ msgstr "มุม:"
 
 #. +> trunk5 stable5
 #: libs/ui/KisTemplateCreateDia.cpp:96
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Template name"
 msgid "Name:"
 msgstr "ชื่อ:"
 
 #. +> trunk5 stable5
 #: libs/ui/KisTemplateCreateDia.cpp:106
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Group:"
 msgctxt "Group as in Template Group"
 msgid "Group:"
@@ -40253,17 +40252,17 @@ msgstr "กลุ่ม:"
 
 #. +> trunk5 stable5
 #: libs/ui/KisTemplateCreateDia.cpp:120
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Add Group..."
 msgctxt "Group as in Template Group"
 msgid "&Add Group..."
-msgstr "เพิ่มกลุ่ม..."
+msgstr "&เพิ่มกลุ่ม..."
 
 #. +> trunk5 stable5
 #: libs/ui/KisTemplateCreateDia.cpp:123
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Remove"
-msgstr "&ลบเลเยอร์"
+msgstr "&ลบ"
 
 #. +> trunk5 stable5
 #: libs/ui/KisTemplateCreateDia.cpp:129
@@ -40565,7 +40564,7 @@ msgstr ""
 #, kde-format
 msgctxt "choice for author profile"
 msgid "Anonymous"
-msgstr ""
+msgstr "นิรนาม"
 
 #. +> trunk5 stable5
 #: libs/ui/KisWelcomePageWidget.cpp:161
@@ -40668,10 +40667,10 @@ msgstr[0] ""
 
 #. +> trunk5 stable5
 #: libs/ui/KoDocumentInfoDlg.cpp:306 libs/ui/KoDocumentInfoDlg.cpp:308
-#, fuzzy, kde-format
+#, kde-format
 msgid "%1 second"
 msgid_plural "%1 seconds"
-msgstr[0] "วินาที"
+msgstr[0] "%1 วินาที"
 
 #. +> trunk5 stable5
 #: libs/ui/KoDocumentInfoDlg.cpp:314
@@ -40797,25 +40796,25 @@ msgstr "ความอิ่มสี"
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbDirection)
 #. +> trunk5 stable5
 #: libs/ui/layerstyles/wdgBevelAndEmboss.ui:150
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:inlistbox Bevel direction"
 msgid "Up"
-msgstr "รีเฟรชพื้นที่วาดภาพ"
+msgstr "ขึ้น"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbDirection)
 #. +> trunk5 stable5
 #: libs/ui/layerstyles/wdgBevelAndEmboss.ui:155
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:inlistbox Bevel direction"
 msgid "Down"
-msgstr "โหมดการลงสี"
+msgstr "ลง"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. +> trunk5 stable5
 #: libs/ui/layerstyles/wdgBevelAndEmboss.ui:163
 #, kde-format
 msgid "Si&ze:"
-msgstr ""
+msgstr "ขน&าด:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #. +> trunk5 stable5
@@ -41024,9 +41023,9 @@ msgstr "เครื่องมือเ&ลือกสี"
 #: libs/ui/layerstyles/wdgblendingoptions.ui:171
 #: libs/ui/layerstyles/wdgblendingoptions.ui:181
 #: libs/ui/layerstyles/wdgblendingoptions.ui:191
-#, fuzzy, kde-format
+#, kde-format
 msgid "1"
-msgstr "%1%"
+msgstr "1"
 
 #. i18n: ectx: property (text), widget (QLabel, label_10)
 #. +> trunk5 stable5
@@ -41251,9 +41250,9 @@ msgstr ""
 #: plugins/impex/jxl/kis_wdg_options_jpegxl.ui:68
 #: plugins/impex/tiff/kis_wdg_options_tiff.ui:236
 #: plugins/impex/webp/kis_wdg_options_webp.ui:71
-#, fuzzy, kde-format
+#, kde-format
 msgid "Quality"
-msgstr "ระดับความโปร่งแสง:"
+msgstr "คุณภาพ"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. i18n: ectx: property (text), widget (QLabel, label_6)
@@ -41371,10 +41370,10 @@ msgstr "หมุน &90"
 #. +> trunk5 stable5
 #: libs/ui/layerstyles/WdgGradientOverlay.ui:148
 #: libs/ui/layerstyles/WdgStroke.ui:241
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:inlistbox Gradient style"
 msgid "Angle"
-msgstr "สี่เหลี่ยม"
+msgstr "มุม"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbStyle)
 #. +> trunk5 stable5
@@ -42464,7 +42463,7 @@ msgstr "อยู่เหนือเลเยอร์ปัจจุบัน
 #, kde-format
 msgctxt "Not Applicable, used where there's no colorants or gamma curve found"
 msgid "N/A"
-msgstr ""
+msgstr "N/A"
 
 #. +> trunk5 stable5
 #: libs/ui/widgets/kis_advanced_color_space_selector.cc:156
@@ -44646,7 +44645,7 @@ msgstr "ประเทศ:"
 #: libs/widgets/KoConfigAuthorPage.cpp:94
 #, kde-format
 msgid "Anonymous"
-msgstr ""
+msgstr "นิรนาม"
 
 #. +> trunk5 stable5
 #: libs/widgets/KoConfigAuthorPage.cpp:281
@@ -45953,21 +45952,21 @@ msgstr "สีข้อความอื่น ๆ..."
 #: libs/widgetutils/xmlgui/ktoolbar.cpp:381
 #, kde-format
 msgid "Small (%1x%2)"
-msgstr ""
+msgstr "เล็ก (%1x%2)"
 
 #. +> trunk5 stable5
 #: libs/widgetutils/xmlgui/ktoolbar.cpp:362
 #: libs/widgetutils/xmlgui/ktoolbar.cpp:383
 #, kde-format
 msgid "Medium (%1x%2)"
-msgstr ""
+msgstr "ปานกลาง (%1x%2)"
 
 #. +> trunk5 stable5
 #: libs/widgetutils/xmlgui/ktoolbar.cpp:364
 #: libs/widgetutils/xmlgui/ktoolbar.cpp:385
 #, kde-format
 msgid "Large (%1x%2)"
-msgstr ""
+msgstr "ใหญ่ (%1x%2)"
 
 #. +> trunk5 stable5
 #: libs/widgetutils/xmlgui/ktoolbar.cpp:366
@@ -47469,10 +47468,10 @@ msgstr "ความกว้างพิกเซล"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimTimelineDocker.cpp:140
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:inmenu Load audio file into Krita from disk."
 msgid "Import Audio..."
-msgstr "รูปภาพ"
+msgstr "นำเข้าเสียง..."
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimTimelineDocker.cpp:142
@@ -49520,7 +49519,7 @@ msgstr "วินาที"
 #: plugins/dockers/recorder/recorder_export.ui:617
 #, kde-format
 msgid "FFmpeg:"
-msgstr ""
+msgstr "FFmpeg:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, checkResize)
 #. +> trunk5 stable5
@@ -50366,7 +50365,7 @@ msgstr ""
 #, kde-format
 msgctxt "default name for storyboard item"
 msgid "scene "
-msgstr ""
+msgstr "ฉาก"
 
 #. +> trunk5 stable5
 #: plugins/dockers/storyboarddocker/StoryboardView.cpp:293
@@ -50537,7 +50536,7 @@ msgstr "การจัดวางหน้ากระดาษ"
 #: plugins/dockers/storyboarddocker/wdgexportstoryboard.ui:130
 #, kde-format
 msgid "Rows"
-msgstr ""
+msgstr "แถว"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, boardLayoutComboBox)
 #. +> trunk5 stable5
@@ -53469,10 +53468,10 @@ msgstr "รูปภาพ"
 
 #. +> trunk5 stable5
 #: plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:142
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "In bundle manager; press button to import a resource library"
 msgid "Import"
-msgstr "นำเข้ารูปภาพ"
+msgstr "นำเข้า"
 
 #. +> trunk5 stable5
 #: plugins/extensions/resourcemanager/dlg_bundle_manager.cpp:147
@@ -53835,7 +53834,7 @@ msgstr "ตัวเลือกสี"
 #: plugins/extensions/resourcemanager/pagemetadatainfo.ui:175
 #, kde-format
 msgid "http://"
-msgstr ""
+msgstr "http://"
 
 #. i18n: ectx: property (text), widget (QLabel, license)
 #. i18n: ectx: property (text), widget (QLabel, label_4)
@@ -53852,7 +53851,7 @@ msgstr "ความสูงพิกเซล"
 #: plugins/extensions/resourcemanager/pagemetadatainfo.ui:294
 #, kde-format
 msgid "(256 x 256)"
-msgstr ""
+msgstr "(256 x 256)"
 
 #. i18n: ectx: property (text), widget (QPushButton, btnRemoveSelected)
 #. +> trunk5
@@ -54479,7 +54478,7 @@ msgstr "สี"
 #: plugins/extensions/spensettings/wdg_spensettings.ui:99
 #, kde-format
 msgid "Swipe Up"
-msgstr ""
+msgstr "ปัดขึ้น"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk5 stable5
@@ -55183,14 +55182,14 @@ msgstr ""
 #: plugins/filters/colorsfilters/wdg_desaturate.ui:82
 #, kde-format
 msgid "&Min"
-msgstr ""
+msgstr "&ต่ำสุด"
 
 #. i18n: ectx: property (text), widget (QRadioButton, radioMax)
 #. +> trunk5 stable5
 #: plugins/filters/colorsfilters/wdg_desaturate.ui:89
 #, kde-format
 msgid "M&ax"
-msgstr ""
+msgstr "สู&งสุด"
 
 #. i18n: ectx: property (text), widget (QLabel, typeLabel)
 #. +> trunk5 stable5
@@ -58362,7 +58361,7 @@ msgstr ""
 #, kde-format
 msgctxt "Color space name"
 msgid "Rec 2100 HLG"
-msgstr ""
+msgstr "Rec 2100 HLG"
 
 #. +> trunk5 stable5
 #: plugins/impex/heif/HeifExport.cpp:544
@@ -58370,7 +58369,7 @@ msgstr ""
 #, kde-format
 msgctxt "Color space name"
 msgid "Rec 2100 PQ"
-msgstr ""
+msgstr "Rec 2100 PQ"
 
 #. +> trunk5 stable5
 #: plugins/impex/heif/HeifExport.cpp:545
@@ -60499,23 +60498,23 @@ msgstr "นำเข้ารูปภาพ..."
 #. i18n: ectx: property (title), widget (QGroupBox, buttonGroup1)
 #. +> trunk5 stable5
 #: plugins/impex/pdf/pdfimportwidgetbase.ui:24
-#, fuzzy, kde-format
+#, kde-format
 msgid "Pages"
-msgstr "เครื่องมือ&วาง"
+msgstr "หน้า"
 
 #. i18n: ectx: property (text), widget (QRadioButton, boolAllPages)
 #. +> trunk5 stable5
 #: plugins/impex/pdf/pdfimportwidgetbase.ui:30
-#, fuzzy, kde-format
+#, kde-format
 msgid "All pa&ges"
-msgstr "รูปภาพ"
+msgstr "ทุกห&น้า"
 
 #. i18n: ectx: property (text), widget (QRadioButton, boolFirstPage)
 #. +> trunk5 stable5
 #: plugins/impex/pdf/pdfimportwidgetbase.ui:37
-#, fuzzy, kde-format
+#, kde-format
 msgid "&First page"
-msgstr "พอดีกับหน้า"
+msgstr "&หน้าแรก"
 
 #. i18n: ectx: property (text), widget (QRadioButton, boolSelectionPage)
 #. +> trunk5 stable5
@@ -60542,9 +60541,9 @@ msgstr "การเลือก"
 #. i18n: ectx: property (windowTitle), widget (QWidget, KisWdgOptionsPNG)
 #. +> trunk5 stable5
 #: plugins/impex/png/kis_wdg_options_png.ui:18
-#, fuzzy, kde-format
+#, kde-format
 msgid "PNG Options"
-msgstr "ตัวเลือกการไล่ระดับสี"
+msgstr "ตัวเลือก PNG"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #. +> trunk5 stable5
@@ -60676,10 +60675,10 @@ msgstr "การเลือก"
 #. i18n: ectx: property (text), widget (QLabel, textLabel4_2)
 #. +> trunk5 stable5
 #: plugins/impex/png/kis_wdg_options_png.ui:143
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "The compression will take a long time; saving the file will be slow."
 msgid "Small File Size"
-msgstr "การเลือก"
+msgstr "ไฟล์ขนาดเล็ก"
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkSaveAsHDR)
 #. +> trunk5 stable5
