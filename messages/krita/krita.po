@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: krita\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-03-21 11:15+0100\n"
-"PO-Revision-Date: 2026-04-22 20:28+0700\n"
+"PO-Revision-Date: 2026-04-24 07:59+0700\n"
 "Last-Translator: PBMINE <pblikemine@gmail.com>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -6804,11 +6804,11 @@ msgstr "กลุ่ม:"
 #: krita/data/actions/InteractionTool.action:68
 #: krita/data/actions/InteractionTool.action:73
 #: plugins/dockers/arrangedocker/arrange_docker_widget.ui:338
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Group:"
 msgctxt "Group in the context of Vector Interaction Tool"
 msgid "Group"
-msgstr "กลุ่ม:"
+msgstr "กลุ่ม"
 
 #. i18n: context: iconText @ Action (object_align_horizontal_left), Actions (Interaction Tool), ActionCollection (Tools)
 #. i18n: context: toolTip @ Action (object_align_horizontal_left), Actions (Interaction Tool), ActionCollection (Tools)
@@ -10521,10 +10521,10 @@ msgstr "การเลือก"
 #: plugins/filters/palettize/palettize.action:4
 #: plugins/filters/propagatecolors/propagatecolors.action:4
 #: plugins/filters/threshold/threshold.action:4
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Filter as an effect"
 msgid "Filters"
-msgstr "&ขาว"
+msgstr "ฟิลเตอร์"
 
 #. i18n: context: text @ Action (krita_filter_colortoalpha), Actions (Filters), ActionCollection (Krita)
 #. +> trunk5 stable5
@@ -23432,9 +23432,9 @@ msgstr " px"
 #: plugins/paintops/hairy/wdgInkOptions.ui:62
 #: plugins/paintops/libpaintop/KisStandardOptionData.h:17
 #: plugins/python/quick_settings_docker/quick_settings_docker.py:54
-#, fuzzy, kde-format
+#, kde-format
 msgid "Opacity"
-msgstr "ระดับความโปร่งแสง:"
+msgstr "ความโปร่งแสง"
 
 #. +> trunk5 stable5
 #: libs/image/brushengine/kis_standard_uniform_properties_factory.h:20
@@ -35642,9 +35642,9 @@ msgstr ">"
 #: plugins/dockers/recorder/recorder_export.ui:472
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:272
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:320
-#, fuzzy, kde-format
+#, kde-format
 msgid "Width"
-msgstr "&กว้าง:"
+msgstr "กว้าง"
 
 #. i18n: ectx: property (prefix), widget (KisIntParseSpinBox, intWidth)
 #. +> trunk5 stable5
@@ -35661,9 +35661,9 @@ msgstr "&กว้าง:"
 #: plugins/dockers/recorder/recorder_export.ui:510
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:222
 #: plugins/tools/tool_crop/wdg_tool_crop.ui:247
-#, fuzzy, kde-format
+#, kde-format
 msgid "Height"
-msgstr "&สูง:"
+msgstr "สูง"
 
 #. i18n: ectx: property (prefix), widget (KisIntParseSpinBox, intHeight)
 #. i18n: ectx: property (text), widget (QLabel, label)
@@ -36261,9 +36261,9 @@ msgstr "X:"
 #: plugins/generators/gradient/KisGradientGeneratorConfigWidget.ui:404
 #: plugins/generators/simplexnoise/wdgsimplexnoiseoptions.ui:149
 #: plugins/tools/defaulttool/defaulttool/DefaultToolGeometryWidget.ui:99
-#, fuzzy, kde-format
+#, kde-format
 msgid "Y:"
-msgstr "X:"
+msgstr "Y:"
 
 #. i18n: ectx: property (text), widget (QLabel, lblAnchor)
 #. +> trunk5 stable5
@@ -43072,9 +43072,9 @@ msgstr ""
 #. +> trunk5 stable5
 #: libs/ui/widgets/kis_categorized_list_view.cpp:161
 #: plugins/dockers/storyboarddocker/wdgstoryboarddock.ui:57
-#, fuzzy, kde-format
+#, kde-format
 msgid "Lock"
-msgstr "ถูกล็อค"
+msgstr "ล็อค"
 
 #. +> trunk5 stable5
 #: libs/ui/widgets/kis_categorized_list_view.cpp:166
@@ -44145,7 +44145,7 @@ msgstr "ตั้งค่า"
 #: plugins/tools/tool_transform2/wdg_tool_transform.ui:2194
 #, kde-format
 msgid "Rows:"
-msgstr ""
+msgstr "แถวn:"
 
 #. i18n: ectx: property (text), widget (QLabel, columnsLabel)
 #. i18n: ectx: property (text), widget (QLabel, lblNumColumns)
@@ -44533,9 +44533,9 @@ msgstr ""
 #: libs/widgets/KisSpinboxHSXSelector.cpp:74
 #: plugins/dockers/widegamutcolorselector/WdgWGShadeLineEditor.ui:61
 #: plugins/paintops/libpaintop/forms/wdgcoloroptions.ui:82
-#, fuzzy, kde-format
+#, kde-format
 msgid "Value:"
-msgstr "น้ำเงิน"
+msgstr "ค่า:"
 
 #. +> trunk5 stable5
 #: libs/widgets/KisSpinboxHSXSelector.cpp:77
@@ -46878,7 +46878,7 @@ msgstr ""
 #: plugins/dockers/artisticcolorselector/forms/wdgARCSSettings.ui:238
 #, kde-format
 msgid "Red':"
-msgstr ""
+msgstr "แดง' :"
 
 #. i18n: ectx: property (text), widget (QLabel, greenlabel)
 #. +> trunk5 stable5
@@ -47035,10 +47035,10 @@ msgstr "เครื่องมือเ&ลือกสี"
 #. i18n: ectx: property (text), widget (QRadioButton, minimalShadeSelectorAsGradient)
 #. +> trunk5 stable5
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:457
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "&Gradients"
 msgid "&Gradient"
-msgstr "ไล่&ระดับสี"
+msgstr "&ไล่ระดับสี"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk5 stable5
@@ -47106,9 +47106,9 @@ msgstr "เครื่องมือเ&ลือกสี"
 #: plugins/dockers/widegamutcolorselector/WdgWGSelectorSettings.ui:227
 #: plugins/dockers/widegamutcolorselector/WdgWGSelectorSettings.ui:562
 #: plugins/dockers/widegamutcolorselector/WdgWGSelectorSettings.ui:769
-#, fuzzy, kde-format
+#, kde-format
 msgid "Layout"
-msgstr "การจัดวางหน้ากระดาษ"
+msgstr "เค้าโครง"
 
 #. i18n: ectx: property (text), widget (QRadioButton, lastUsedColorsAlignVertical)
 #. i18n: ectx: property (text), widget (QRadioButton, commonColorsAlignVertical)
@@ -47128,9 +47128,9 @@ msgstr "แนวตั้ง"
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:739
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:953
 #: plugins/extensions/imagesplit/wdg_imagesplit.ui:85
-#, fuzzy, kde-format
+#, kde-format
 msgid "Hori&zontal"
-msgstr "เส้นทแยง"
+msgstr "แนว&นอน"
 
 #. i18n: ectx: property (text), widget (QCheckBox, lastUsedColorsAllowScrolling)
 #. i18n: ectx: property (text), widget (QCheckBox, commonColorsAllowScrolling)
@@ -47208,16 +47208,16 @@ msgstr "ตัวเลือกการไล่ระดับสี"
 #. i18n: ectx: property (text), widget (QLabel, label_13)
 #. +> trunk5 stable5
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1085
-#, fuzzy, kde-format
+#, kde-format
 msgid "Saturation: "
-msgstr "ความอิ่มสี"
+msgstr "ความอิ่มสี:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_17)
 #. +> trunk5 stable5
 #: plugins/dockers/advancedcolorselector/wdg_color_selector_settings.ui:1106
 #, fuzzy, kde-format
 msgid "Hue: "
-msgstr "สี"
+msgstr "สี:"
 
 #. i18n: ectx: property (title), widget (QGroupBox, horizontalGroupBox_2)
 #. +> trunk5 stable5
@@ -47338,9 +47338,9 @@ msgstr ""
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimCurvesDocker.cpp:208
 #: plugins/dockers/animation/KisAnimTimelineDocker.cpp:206
-#, fuzzy, kde-format
+#, kde-format
 msgid "Frame Rate: "
-msgstr "นำเข้ารูปภาพ..."
+msgstr "อัตราเฟรม:"
 
 #. +> trunk5 stable5
 #: plugins/dockers/animation/KisAnimCurvesDocker.cpp:284
@@ -47873,9 +47873,9 @@ msgstr "เปลี่ยนประเภทของรายการ"
 
 #. +> trunk5 stable5
 #: plugins/dockers/arrangedocker/arrangedocker_dock.cpp:19
-#, fuzzy, kde-format
+#, kde-format
 msgid "Arrange"
-msgstr "ส้ม"
+msgstr "จัดวาง"
 
 #. +> trunk5 stable5
 #: plugins/dockers/artisticcolorselector/artisticcolorselector_dock.cpp:68
@@ -48144,9 +48144,9 @@ msgstr "การเพิ่ม"
 
 #. +> trunk5 stable5
 #: plugins/dockers/compositiondocker/compositiondocker_dock.cpp:455
-#, fuzzy, kde-format
+#, kde-format
 msgid "New Name:"
-msgstr "ชื่อ:"
+msgstr "ชื่อใหม่:"
 
 #. +> trunk5 stable5
 #: plugins/dockers/compositiondocker/compositionmodel.cpp:65
@@ -48322,9 +48322,9 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, chkShowGrid)
 #. +> trunk5 stable5
 #: plugins/dockers/griddocker/grid_config_widget.ui:60
-#, fuzzy, kde-format
+#, kde-format
 msgid "Show grid"
-msgstr "แสดงเส้นกริด"
+msgstr "แสดงตาราง"
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkSnapToGrid)
 #. +> trunk5 stable5
@@ -48342,10 +48342,10 @@ msgstr "&ซ่อน/แสดงเลเยอร์..."
 #: plugins/dockers/griddocker/grid_config_widget.ui:244
 #: plugins/dockers/griddocker/grid_config_widget.ui:300
 #: plugins/dockers/griddocker/grid_config_widget.ui:808
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Grid line style - Solid Lines"
 msgid "Lines"
-msgstr "เลเยอร์"
+msgstr "เส้น"
 
 #. i18n: ectx: property (text), item, widget (KComboBox, selectMainStyle)
 #. i18n: ectx: property (text), item, widget (KComboBox, selectVerticalStyle)
@@ -48439,16 +48439,16 @@ msgstr "การเลือก"
 #. i18n: ectx: property (text), widget (QLabel, lblXSpacing)
 #. +> trunk5 stable5
 #: plugins/dockers/griddocker/grid_config_widget.ui:568
-#, fuzzy, kde-format
+#, kde-format
 msgid "X spacing:"
-msgstr "ช่องว่าง:"
+msgstr "ช่องว่าง X:"
 
 #. i18n: ectx: property (text), widget (QLabel, lblYSpacing)
 #. +> trunk5 stable5
 #: plugins/dockers/griddocker/grid_config_widget.ui:581
-#, fuzzy, kde-format
+#, kde-format
 msgid "Y spacing:"
-msgstr "ช่องว่าง:"
+msgstr "ช่องว่าง Y:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkOffset)
 #. +> trunk5 stable5
@@ -48572,7 +48572,7 @@ msgstr ""
 
 #. +> trunk5 stable5
 #: plugins/dockers/layerdocker/LayerBox.cpp:383
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "None"
 msgctxt "@item:inlistbox Layer Docker blending info style"
 msgid "None"
@@ -48580,10 +48580,10 @@ msgstr "ไม่มี"
 
 #. +> trunk5 stable5
 #: plugins/dockers/layerdocker/LayerBox.cpp:384
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@item:inlistbox Layer Docker blending info style"
 msgid "Simple"
-msgstr "น้ำเงิน"
+msgstr "เรียบง่าย"
 
 #. +> trunk5 stable5
 #: plugins/dockers/layerdocker/LayerBox.cpp:385
@@ -48671,15 +48671,15 @@ msgstr "%1 %"
 
 #. +> trunk5 stable5
 #: plugins/dockers/layerdocker/NodeToolTip.cpp:47
-#, fuzzy, kde-format
+#, kde-format
 msgid "No"
-msgstr "ไม่มี"
+msgstr "ไม่"
 
 #. +> trunk5 stable5
 #: plugins/dockers/layerdocker/NodeToolTip.cpp:47
-#, fuzzy, kde-format
+#, kde-format
 msgid "Yes"
-msgstr "เหลือง"
+msgstr "ใช่"
 
 #. i18n: ectx: property (whatsThis), widget (KisCompositeOpComboBox, cmbComposite)
 #. +> trunk5 stable5
@@ -48821,9 +48821,9 @@ msgstr "ตั้งค่า"
 #. +> trunk5 stable5
 #: plugins/dockers/logdocker/LogDockerDock.cpp:180
 #: plugins/extensions/pykrita/plugin/info.ui:17
-#, fuzzy, kde-format
+#, kde-format
 msgid "Actions"
-msgstr "การเลือก"
+msgstr "การกระทำ"
 
 #. +> trunk5 stable5
 #: plugins/dockers/logdocker/LogDockerDock.cpp:184
@@ -48833,9 +48833,9 @@ msgstr "ตั้งค่า"
 
 #. +> trunk5 stable5
 #: plugins/dockers/logdocker/LogDockerDock.cpp:188
-#, fuzzy, kde-format
+#, kde-format
 msgid "GPU Canvas"
-msgstr "พื้นที่วาดภาพ"
+msgstr "แคนวาส GPU"
 
 #. i18n: ectx: property (toolTip), widget (QToolButton, bnToggle)
 #. +> trunk5 stable5
@@ -48867,15 +48867,15 @@ msgstr "ยืนยันการบันทึก"
 
 #. +> trunk5 stable5
 #: plugins/dockers/lut/black_white_point_chooser.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 msgid "Black:"
-msgstr "น้ำเงิน"
+msgstr "ดำ:"
 
 #. +> trunk5 stable5
 #: plugins/dockers/lut/black_white_point_chooser.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 msgid "White:"
-msgstr "ตัวเลือกสี"
+msgstr "ขาว:"
 
 #. +> trunk5 stable5
 #: plugins/dockers/lut/lutdocker_dock.cpp:85
@@ -48953,7 +48953,7 @@ msgstr "ช่อง"
 
 #. +> trunk5 stable5
 #: plugins/dockers/lut/lutdocker_dock.cpp:577
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "None"
 msgctxt "Item to indicate no look transform being selected"
 msgid "None"
@@ -48962,16 +48962,16 @@ msgstr "ไม่มี"
 #. i18n: ectx: property (title), widget (QGroupBox, m_chkUseOcio)
 #. +> trunk5 stable5
 #: plugins/dockers/lut/wdglut.ui:36
-#, fuzzy, kde-format
+#, kde-format
 msgid "Use OpenColorIO"
-msgstr "สี"
+msgstr "ใช้ OpenColorIO"
 
 #. i18n: ectx: property (text), widget (QLabel, m_lblDisplayDevice)
 #. +> trunk5 stable5
 #: plugins/dockers/lut/wdglut.ui:93
-#, fuzzy, kde-format
+#, kde-format
 msgid "Display Device:"
-msgstr "ละลาย"
+msgstr "อุปกรณ์แสดงผล:"
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. +> trunk5 stable5
@@ -49013,9 +49013,9 @@ msgstr "คุณสมบัติเลเยอร์..."
 #. i18n: ectx: property (text), widget (QLabel, m_lblView)
 #. +> trunk5 stable5
 #: plugins/dockers/lut/wdglut.ui:283
-#, fuzzy, kde-format
+#, kde-format
 msgid "View:"
-msgstr "ลิงค์"
+msgstr "มุมมอง:"
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk5 stable5
@@ -49036,7 +49036,7 @@ msgstr "มุม:"
 #: plugins/dockers/lut/wdglut.ui:315
 #, kde-format
 msgid "OCIO"
-msgstr ""
+msgstr "OCIO"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, m_colorManagement)
 #. +> trunk5 stable5
@@ -49070,9 +49070,9 @@ msgstr ""
 
 #. +> trunk5 stable5
 #: plugins/dockers/overview/overviewdocker_dock.cpp:13
-#, fuzzy, kde-format
+#, kde-format
 msgid "Overview"
-msgstr "โอเวอร์เลย์"
+msgstr "ตัวอย่างโดยรวม"
 
 #. +> trunk5 stable5
 #: plugins/dockers/overview/overviewdocker_page.cpp:160
@@ -49261,7 +49261,7 @@ msgctxt ""
 "This text is displayed instead of path to external tool in case of external to"
 "ol is not found"
 msgid "[NOT FOUND]"
-msgstr ""
+msgstr "[ไม่เจอ]"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_export.cpp:93
@@ -49289,9 +49289,9 @@ msgstr "ตั้งค่า"
 #: plugins/dockers/recorder/recorder_export.cpp:372
 #: plugins/dockers/storyboarddocker/DlgExportStoryboard.cpp:29
 #: plugins/dockers/storyboarddocker/wdgstoryboarddock.ui:21
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export"
-msgstr "ส่งออกรูปภาพ..."
+msgstr "ส่งออก"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_export.cpp:387
@@ -49317,10 +49317,10 @@ msgstr "px:"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_export.cpp:396
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "The suffix after number of frames"
 msgid "frame(s)"
-msgstr "&สี"
+msgstr "เฟรม(วิ)"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_export.cpp:442
@@ -49510,7 +49510,7 @@ msgstr ""
 #. i18n: ectx: property (suffix), widget (QSpinBox, spinFirstFrameSec)
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_export.ui:589
-#, fuzzy, kde-format
+#, kde-format
 msgid " sec."
 msgstr "วินาที"
 
@@ -49594,10 +49594,10 @@ msgstr "เครื่องมือ&ปากกา"
 #. i18n: ectx: property (text), widget (QPushButton, buttonDoneClose)
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_export.ui:1090
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Close dialog button"
 msgid "Close"
-msgstr "สี"
+msgstr "ปิด"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, RecorderProfileSettings)
 #. +> trunk5 stable5
@@ -49658,45 +49658,45 @@ msgstr "น้ำเงิน"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_snapshots_manager.cpp:138
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Header title for preview thumbnail"
 msgid "Preview"
-msgstr "รีเฟรชพื้นที่วาดภาพ"
+msgstr "ตัวอย่าง"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_snapshots_manager.cpp:140
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Header title for directory name column"
 msgid "Name"
-msgstr "ชื่อ:"
+msgstr "ชื่อ"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_snapshots_manager.cpp:142
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Header title for size of directory column"
 msgid "Size"
-msgstr "ลิงค์"
+msgstr "ขนาด"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_snapshots_manager.cpp:144
-#, fuzzy, kde-format
+#, kde-format
 #| msgid "Modified:"
 msgctxt "Header title for last modified date/time column"
 msgid "Last Modified"
-msgstr "แก้ไขเมื่อ:"
+msgstr "แก้ไขเมื่อ"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_snapshots_manager.cpp:182
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Label title, Scanning for directory, files, etc.."
 msgid "Scanning..."
-msgstr "เปลี่ยนชื่อรูปภาพ..."
+msgstr "สเกน..."
 
 #. i18n: ectx: property (text), widget (QPushButton, buttonSelectAll)
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_snapshots_manager.cpp:195
 #: plugins/dockers/recorder/recorder_snapshots_manager.ui:205
-#, fuzzy, kde-format
+#, kde-format
 msgid "Select All"
 msgstr "เลือกทั้งหมด"
 
@@ -49726,9 +49726,9 @@ msgstr "รูปภาพ"
 #. i18n: ectx: property (text), widget (QLabel, labelProgress)
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_snapshots_manager.ui:95
-#, fuzzy, kde-format
+#, kde-format
 msgid "Scanning..."
-msgstr "เปลี่ยนชื่อรูปภาพ..."
+msgstr "กำลังสเกน.."
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk5 stable5
@@ -49747,9 +49747,9 @@ msgstr "บันทึกไปยังจานสี"
 #. i18n: ectx: property (text), widget (QLabel, labelSpace)
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorder_snapshots_manager.ui:272
-#, fuzzy, kde-format
+#, kde-format
 msgid "0 B"
-msgstr "วินาที"
+msgstr "0 B"
 
 #. i18n: ectx: property (text), widget (QLabel, labelDirectory)
 #. +> trunk5 stable5
@@ -49793,32 +49793,32 @@ msgstr "ระดับความโปร่งแสง:"
 #. i18n: ectx: property (text), widget (QLabel, labelResolution)
 #. +> trunk5
 #: plugins/dockers/recorder/recorderdocker.ui:225
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Resolution for recorded frames"
 msgid "Resolution:         "
-msgstr "การเลือก"
+msgstr "ความละเอียด:"
 
 #. i18n: ectx: property (text), widget (QLabel, labelResolution)
 #. +> stable5
 #: plugins/dockers/recorder/recorderdocker.ui:225
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Resolution for recorded frames"
 msgid "Resolution:"
-msgstr "การเลือก"
+msgstr "ความละเอียด:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboResolution)
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorderdocker.ui:248
-#, fuzzy, kde-format
+#, kde-format
 msgid "Original"
-msgstr "เส้นทแยง"
+msgstr "ต้นฉบับ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboResolution)
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorderdocker.ui:253
-#, fuzzy, kde-format
+#, kde-format
 msgid "Half"
-msgstr "บรรทัดท้ายกระดาษ"
+msgstr "ครึ่ง"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, comboResolution)
 #. +> trunk5 stable5
@@ -49911,16 +49911,16 @@ msgstr "สี่เหลี่ยม"
 #. i18n: ectx: property (text), widget (QPushButton, buttonExport)
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorderdocker.ui:411
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export..."
-msgstr "ส่งออกรูปภาพ..."
+msgstr "ส่งออก..."
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorderdocker_dock.cpp:147
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Title for label. JPEG Quality level"
 msgid "Quality:"
-msgstr "ระดับความโปร่งแสง:"
+msgstr "คุณภาพ:"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorderdocker_dock.cpp:148
@@ -49973,12 +49973,12 @@ msgstr "เส้นทแยง"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorderdocker_dock.cpp:236
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "Use the resolution two times smaller than the original resolution for the fram"
 "es when recording the canvas"
 msgid "Half"
-msgstr "บรรทัดท้ายกระดาษ"
+msgstr "ครึ่ง"
 
 #. +> trunk5 stable5
 #: plugins/dockers/recorder/recorderdocker_dock.cpp:237
@@ -50293,10 +50293,10 @@ msgstr "สี่เหลี่ยม"
 #: plugins/dockers/storyboarddocker/StoryboardDelegate.cpp:133
 #: plugins/dockers/storyboarddocker/StoryboardDelegate.cpp:308
 #: plugins/dockers/storyboarddocker/StoryboardDockerDock.cpp:919
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "suffix in spin box in storyboard that means 'seconds'"
 msgid "s"
-msgstr "วินาที"
+msgstr "วิ"
 
 #. +> trunk5 stable5
 #: plugins/dockers/storyboarddocker/StoryboardDelegate.cpp:138
@@ -50407,10 +50407,10 @@ msgstr "น้ำเงิน"
 #. i18n: ectx: property (text), widget (QRadioButton, btnRowMode)
 #. +> trunk5 stable5
 #: plugins/dockers/storyboarddocker/wdgarrangemenu.ui:42
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "list view layout mode"
 msgid "Row"
-msgstr "ด้านล่าง"
+msgstr "แถว"
 
 #. i18n: ectx: property (text), widget (QRadioButton, btnGridMode)
 #. +> trunk5 stable5
@@ -50424,10 +50424,10 @@ msgstr "เส้นตาราง"
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk5 stable5
 #: plugins/dockers/storyboarddocker/wdgarrangemenu.ui:63
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "list view fields visibility"
 msgid "View"
-msgstr "ลิงค์"
+msgstr "มุมมอง"
 
 #. i18n: ectx: property (text), widget (QRadioButton, btnAllView)
 #. +> trunk5 stable5
@@ -50464,9 +50464,9 @@ msgstr "สี่เหลี่ยม"
 #. i18n: ectx: property (text), widget (QLabel, pageSizeLabel)
 #. +> trunk5 stable5
 #: plugins/dockers/storyboarddocker/wdgexportstoryboard.ui:34
-#, fuzzy, kde-format
+#, kde-format
 msgid "Page Size:"
-msgstr "รูปภาพ"
+msgstr "ขนาดหน้า:"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, pageSizeComboBox)
 #. +> trunk5 stable5
@@ -50972,9 +50972,9 @@ msgstr "ระยะเหลื่อม:"
 #. i18n: ectx: property (text), widget (QLabel, labelDisplay)
 #. +> trunk5 stable5
 #: plugins/dockers/widegamutcolorselector/WdgWGShadeLineEditor.ui:157
-#, fuzzy, kde-format
+#, kde-format
 msgid "Display:"
-msgstr "ละลาย"
+msgstr "แสดง:"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rbSlider)
 #. +> trunk5 stable5
@@ -50994,9 +50994,9 @@ msgstr "เครื่องมือเ&ลือกสี"
 #. i18n: ectx: property (text), widget (QLabel, labelPreview)
 #. +> trunk5 stable5
 #: plugins/dockers/widegamutcolorselector/WdgWGShadeLineEditor.ui:196
-#, fuzzy, kde-format
+#, kde-format
 msgid "Preview:"
-msgstr "รีเฟรชพื้นที่วาดภาพ"
+msgstr "ตัวอย่าง:"
 
 #. i18n: context: text @ Actions (Krita), ActionCollection (Krita)
 #. +> trunk5 stable5
@@ -67559,9 +67559,8 @@ msgstr "คุณสมบัติเครื่องมือ&ปัจจ�
 
 #. +> trunk5 stable5
 #: plugins/python/comics_project_management_tools/comics_project_manager_docker.py:282
-#, fuzzy
 msgid "Add Page"
-msgstr "คุณสมบัติเครื่องมือ&ปัจจุบัน..."
+msgstr "เพิ่มหน้า"
 
 #. +> trunk5 stable5
 #: plugins/python/comics_project_management_tools/comics_project_manager_docker.py:284
@@ -67639,9 +67638,8 @@ msgstr ""
 
 #. +> trunk5 stable5
 #: plugins/python/comics_project_management_tools/comics_project_manager_docker.py:342
-#, fuzzy
 msgid "JSON files"
-msgstr "คุณสมบัติเลเยอร์..."
+msgstr "ไฟล์ JSON"
 
 #. +> trunk5 stable5
 #: plugins/python/comics_project_management_tools/comics_project_manager_docker.py:345
@@ -67666,9 +67664,8 @@ msgstr "&ลวดลาย"
 #: plugins/python/comics_project_management_tools/comics_project_manager_docker.py:532
 #: plugins/python/comics_project_management_tools/comics_project_manager_docker.py:652
 #: plugins/python/comics_project_management_tools/comics_template_dialog.py:118
-#, fuzzy
 msgid "Krita files"
-msgstr "ตั้งค่า"
+msgstr "ไฟล์ Krita"
 
 #. +> trunk5 stable5
 #: plugins/python/comics_project_management_tools/comics_project_manager_docker.py:532
@@ -68708,9 +68705,9 @@ msgstr "การยกเว้น"
 #. i18n: ectx: property (text), widget (QRadioButton, rb_docker)
 #. +> trunk5 stable5
 #: plugins/python/krita_script_starter/bbdkss.ui:129
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Docker"
-msgstr "ลิงค์"
+msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cb_enable_script)
 #. +> trunk5 stable5
@@ -68899,13 +68896,11 @@ msgstr "จานสี"
 
 #. +> trunk5 stable5
 #: plugins/python/palette_docker/palette_docker.py:63
-#, fuzzy
 msgid "Set"
-msgstr "การเลือก"
+msgstr "เซ็ต"
 
 #. +> trunk5 stable5
 #: plugins/python/palette_docker/palette_docker.py:72
-#, fuzzy
 #| msgid "Add Group"
 msgctxt "Group as Color Group in a Palette"
 msgid "Add Group"
@@ -69346,7 +69341,7 @@ msgstr "การเลือก"
 #: plugins/python/selectionsbagdocker/selectionsbagdocker.ui:27
 #, kde-format
 msgid "save"
-msgstr ""
+msgstr "บันทึก"
 
 #. i18n: context: text @ Actions (Scripts), ActionCollection (Scripts)
 #. i18n: context: text @ Action (ten_brushes), Actions (Scripts), ActionCollection (Scripts)
